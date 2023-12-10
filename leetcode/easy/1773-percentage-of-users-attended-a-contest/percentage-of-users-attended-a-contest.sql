@@ -4,4 +4,5 @@ GROUP BY 1
 ORDER BY 2 DESC, 1
 
 
-# moving "* 100" outside decreases the runtime --> good thing.
+# 1. moving "* 100" outside decreases the runtime --> good thing.
+# 2. removing DISTINCT doesn't help.
