@@ -1,0 +1,139 @@
+﻿Consumer_ID,City,State,Country,Latitude,Longitude,Smoker,Drink_Level,Transportation_Method,Marital_Status,Children,Age,Occupation,Budget
+U1001,San Luis Potosi,San Luis Potosi,Mexico,22.139997,-100.978803,No,Abstemious,On Foot,Single,Independent,23,Student,Medium
+U1002,San Luis Potosi,San Luis Potosi,Mexico,22.150087,-100.983325,No,Abstemious,Public,Single,Independent,22,Student,Low
+U1003,San Luis Potosi,San Luis Potosi,Mexico,22.119847,-100.946527,No,Social Drinker,Public,Single,Independent,23,Student,Low
+U1004,Cuernavaca,Morelos,Mexico,18.867,-99.183,No,Abstemious,Public,Single,Independent,72,Employed,Medium
+U1005,San Luis Potosi,San Luis Potosi,Mexico,22.183477,-100.959891,No,Abstemious,Public,Single,Independent,20,Student,Medium
+U1006,San Luis Potosi,San Luis Potosi,Mexico,22.15,-100.983,Yes,Social Drinker,Car,Single,Independent,23,Student,Medium
+U1007,San Luis Potosi,San Luis Potosi,Mexico,22.118464,-100.938256,No,Casual Drinker,Public,Single,Independent,23,Student,Low
+U1008,San Luis Potosi,San Luis Potosi,Mexico,22.122989,-100.923811,No,Social Drinker,Public,Single,Independent,23,Student,Low
+U1009,San Luis Potosi,San Luis Potosi,Mexico,22.159427,-100.990448,No,Abstemious,On Foot,Single,Kids,21,Student,Medium
+U1010,San Luis Potosi,San Luis Potosi,Mexico,22.190889,-100.998669,No,Social Drinker,Car,Married,Kids,25,Student,Medium
+U1011,Ciudad Victoria,Tamaulipas,Mexico,23.724972,-99.152856,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1012,Cuernavaca,Morelos,Mexico,18.813348,-99.243697,No,Casual Drinker,Public,Single,Independent,24,Student,Medium
+U1013,San Luis Potosi,San Luis Potosi,Mexico,22.174624,-100.993873,No,Abstemious,Public,Single,Independent,30,Employed,Medium
+U1014,Ciudad Victoria,Tamaulipas,Mexico,23.751607,-99.170108,No,Abstemious,Public,Single,Independent,22,Student,Medium
+U1015,San Luis Potosi,San Luis Potosi,Mexico,22.12676,-100.905209,Yes,Social Drinker,Public,Single,Independent,23,Student,Medium
+U1016,San Luis Potosi,San Luis Potosi,Mexico,22.156247,-100.977402,No,Casual Drinker,On Foot,Single,Independent,21,Student,Medium
+U1017,Cuernavaca,Morelos,Mexico,18.952615,-99.201616,No,Casual Drinker,Public,Single,,21,Employed,Medium
+U1018,San Luis Potosi,San Luis Potosi,Mexico,22.190949,-100.917902,Yes,Casual Drinker,Public,Single,Independent,23,Student,Low
+U1019,San Luis Potosi,San Luis Potosi,Mexico,22.153385,-100.975294,No,Casual Drinker,Public,Single,Independent,23,Student,Medium
+U1020,Cuernavaca,Morelos,Mexico,18.878189,-99.222969,No,Abstemious,Public,Single,Independent,30,Employed,Medium
+U1021,Ciudad Victoria,Tamaulipas,Mexico,23.730569,-99.171883,No,Social Drinker,Car,Single,Dependent,28,Student,Medium
+U1022,San Luis Potosi,San Luis Potosi,Mexico,22.146708,-100.964355,No,Casual Drinker,Car,Single,Independent,22,Student,Medium
+U1023,Ciudad Victoria,Tamaulipas,Mexico,23.752943,-99.166589,No,Casual Drinker,Car,Single,Independent,24,Student,Low
+U1024,San Luis Potosi,San Luis Potosi,Mexico,22.154021,-100.976028,,Abstemious,,,,82,,
+U1025,San Luis Potosi,San Luis Potosi,Mexico,22.125603,-100.907844,No,Social Drinker,Public,Single,,22,Student,Medium
+U1026,Ciudad Victoria,Tamaulipas,Mexico,23.733,-99.133,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1027,San Luis Potosi,San Luis Potosi,Mexico,22.16515,-100.987015,Yes,Social Drinker,Public,Single,Independent,23,Student,Low
+U1028,Ciudad Victoria,Tamaulipas,Mexico,23.752874,-99.169242,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1029,San Luis Potosi,San Luis Potosi,Mexico,22.151796,-100.989075,Yes,Casual Drinker,Public,Single,Independent,22,Student,Low
+U1030,Cuernavaca,Morelos,Mexico,18.844818,-99.182758,No,Casual Drinker,On Foot,Single,Independent,21,Student,Medium
+U1031,Ciudad Victoria,Tamaulipas,Mexico,23.735698,-99.159851,No,Abstemious,,Married,Kids,20,Unemployed,Medium
+U1032,San Luis Potosi,San Luis Potosi,Mexico,22.169184,-100.986843,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1033,San Luis Potosi,San Luis Potosi,Mexico,22.15,-100.983,No,Social Drinker,On Foot,Single,,21,Student,Low
+U1034,San Luis Potosi,San Luis Potosi,Mexico,22.137178,-101.013169,No,Casual Drinker,Public,Single,Independent,22,Student,Medium
+U1035,Cuernavaca,Morelos,Mexico,18.839671,-99.223897,Yes,Casual Drinker,Car,Single,Independent,27,Student,Medium
+U1036,San Luis Potosi,San Luis Potosi,Mexico,22.160572,-100.989418,No,Social Drinker,Public,Single,Independent,21,Student,Medium
+U1037,San Luis Potosi,San Luis Potosi,Mexico,22.15031,-100.900536,No,Social Drinker,Public,Single,Independent,22,Student,Low
+U1038,San Luis Potosi,San Luis Potosi,Mexico,22.125786,-100.943705,Yes,Social Drinker,Public,Single,Independent,82,Student,Low
+U1039,Ciudad Victoria,Tamaulipas,Mexico,23.738067,-99.139906,No,Social Drinker,,Single,Independent,23,Student,Medium
+U1040,Cuernavaca,Morelos,Mexico,18.895187,-99.18039,No,Abstemious,Public,Single,Independent,18,Student,Medium
+U1041,Cuernavaca,Morelos,Mexico,18.935191,-99.23624,No,Abstemious,On Foot,Single,Independent,27,Employed,Medium
+U1042,Cuernavaca,Morelos,Mexico,18.925773,-99.219589,No,Abstemious,Car,Single,Independent,69,Student,High
+U1043,Ciudad Victoria,Tamaulipas,Mexico,23.77103,-99.167082,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1044,Cuernavaca,Morelos,Mexico,18.95298,-99.260789,Yes,Social Drinker,Car,Married,Kids,43,Employed,Medium
+U1045,San Luis Potosi,San Luis Potosi,Mexico,22.156724,-100.984268,No,Casual Drinker,Car,Single,Independent,21,Student,High
+U1046,San Luis Potosi,San Luis Potosi,Mexico,22.144415,-100.933097,No,Social Drinker,Car,Single,Independent,22,Student,Medium
+U1047,San Luis Potosi,San Luis Potosi,Mexico,22.142429,-100.949147,No,Abstemious,Public,Single,Independent,20,Student,Medium
+U1048,San Luis Potosi,San Luis Potosi,Mexico,22.142208,-101.022785,Yes,Casual Drinker,Public,Single,Independent,24,Student,Medium
+U1049,San Luis Potosi,San Luis Potosi,Mexico,22.15,-100.983,No,Casual Drinker,Public,Single,,21,Student,
+U1050,Ciudad Victoria,Tamaulipas,Mexico,23.758815,-99.171216,No,Social Drinker,Car,Single,Independent,23,Student,Medium
+U1051,Cuernavaca,Morelos,Mexico,18.877719,-99.22299,No,Casual Drinker,Public,Single,Independent,33,Employed,Medium
+U1052,San Luis Potosi,San Luis Potosi,Mexico,22.138055,-100.936005,Yes,Social Drinker,On Foot,Single,Independent,22,Student,Low
+U1053,San Luis Potosi,San Luis Potosi,Mexico,22.175833,-100.986671,No,Casual Drinker,Public,Single,Independent,22,Student,Low
+U1054,San Luis Potosi,San Luis Potosi,Mexico,22.150683,-100.975342,No,Social Drinker,Public,Single,Independent,20,Student,Medium
+U1055,San Luis Potosi,San Luis Potosi,Mexico,22.143289,-100.987683,No,Abstemious,Car,Married,Dependent,60,Employed,Medium
+U1056,San Luis Potosi,San Luis Potosi,Mexico,22.168997,-100.974376,No,Social Drinker,On Foot,Single,Independent,82,Student,Medium
+U1057,San Luis Potosi,San Luis Potosi,Mexico,22.196624,-100.91217,Yes,Casual Drinker,Public,Single,Independent,23,Student,Medium
+U1058,San Luis Potosi,San Luis Potosi,Mexico,22.205802,-100.986081,No,Abstemious,Public,Single,Independent,21,Student,Low
+U1059,Jiutepec,Morelos,Mexico,18.988278,-99.097023,No,Abstemious,On Foot,Single,Independent,25,Student,Medium
+U1060,Ciudad Victoria,Tamaulipas,Mexico,23.715238,-99.158864,No,Casual Drinker,Public,Single,Independent,21,Student,Medium
+U1061,San Luis Potosi,San Luis Potosi,Mexico,22.140388,-100.937321,No,Social Drinker,Car,Single,Independent,22,Employed,Medium
+U1062,San Luis Potosi,San Luis Potosi,Mexico,22.195826,-101.006317,No,Casual Drinker,Car,Single,Independent,27,Student,Medium
+U1063,Ciudad Victoria,Tamaulipas,Mexico,23.745096,-99.164357,No,Casual Drinker,Public,Single,Independent,24,Student,Medium
+U1064,San Luis Potosi,San Luis Potosi,Mexico,22.139511,-100.957002,No,Casual Drinker,Public,Single,Independent,21,Student,Medium
+U1065,Ciudad Victoria,Tamaulipas,Mexico,23.733665,-99.105617,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1066,Jiutepec,Morelos,Mexico,18.890695,-99.157104,No,Abstemious,Public,Single,,26,Student,Low
+U1067,Ciudad Victoria,Tamaulipas,Mexico,23.752269,-99.168605,No,Abstemious,Public,Single,Independent,25,Student,Medium
+U1068,Ciudad Victoria,Tamaulipas,Mexico,23.752269,-99.168605,No,Casual Drinker,Public,Single,Independent,24,Student,Low
+U1069,Jiutepec,Morelos,Mexico,19.347641,-99.130229,No,Social Drinker,Public,Single,Independent,29,Employed,Medium
+U1070,Ciudad Victoria,Tamaulipas,Mexico,23.753237,-99.166868,No,Casual Drinker,Public,Single,Independent,21,Student,Low
+U1071,San Luis Potosi,San Luis Potosi,Mexico,22.154339,-100.975342,No,Abstemious,Car,Single,Independent,82,Student,High
+U1072,Cuernavaca,Morelos,Mexico,18.86826,-99.212033,No,Casual Drinker,Public,Single,Independent,28,Student,Medium
+U1073,San Luis Potosi,San Luis Potosi,Mexico,22.15,-100.983,No,Abstemious,Car,Single,Kids,23,Unemployed,Medium
+U1074,Cuernavaca,Morelos,Mexico,18.917,-99.25,Yes,Casual Drinker,Car,Single,Kids,45,Employed,Medium
+U1075,San Luis Potosi,San Luis Potosi,Mexico,22.167575,-100.960364,No,Casual Drinker,Car,Single,Independent,21,Student,Medium
+U1076,San Luis Potosi,San Luis Potosi,Mexico,22.156469,-100.98554,No,Social Drinker,Public,Married,Kids,25,Student,Medium
+U1077,San Luis Potosi,San Luis Potosi,Mexico,22.156469,-100.98554,No,Social Drinker,Public,Married,Kids,25,Student,Medium
+U1078,San Luis Potosi,San Luis Potosi,Mexico,22.172109,-100.963199,Yes,Social Drinker,Car,Single,Independent,29,Employed,Medium
+U1079,Cuernavaca,Morelos,Mexico,18.917,-99.25,No,Abstemious,Public,Single,Independent,20,,Medium
+U1080,Ciudad Victoria,Tamaulipas,Mexico,23.743793,-99.163397,Yes,Social Drinker,Car,Single,Independent,25,Student,Low
+U1081,San Luis Potosi,San Luis Potosi,Mexico,22.207749,-100.942383,No,Casual Drinker,Public,Single,Independent,21,Student,Low
+U1082,Ciudad Victoria,Tamaulipas,Mexico,23.753061,-99.166095,Yes,Abstemious,Public,Single,,23,Student,Medium
+U1083,San Luis Potosi,San Luis Potosi,Mexico,22.13392,-101.028373,No,Abstemious,,,,31,,
+U1084,San Luis Potosi,San Luis Potosi,Mexico,22.172524,-101.005758,Yes,Casual Drinker,Public,Single,Independent,21,Student,Medium
+U1085,San Luis Potosi,San Luis Potosi,Mexico,22.196787,-100.936335,No,Abstemious,Car,Single,Independent,24,Student,
+U1086,San Luis Potosi,San Luis Potosi,Mexico,22.157281,-100.98444,No,Social Drinker,Car,Single,Independent,21,Student,Medium
+U1087,Ciudad Victoria,Tamaulipas,Mexico,23.753336,-99.167984,No,Abstemious,Public,Single,Independent,23,Student,Medium
+U1088,San Luis Potosi,San Luis Potosi,Mexico,22.142748,-100.940664,No,Social Drinker,On Foot,Single,Independent,21,Student,Medium
+U1089,San Luis Potosi,San Luis Potosi,Mexico,22.162562,-100.99313,Yes,Casual Drinker,Public,Single,Independent,22,Student,Low
+U1090,San Luis Potosi,San Luis Potosi,Mexico,22.158473,-100.984268,No,Social Drinker,Car,Single,Independent,24,Student,Medium
+U1091,San Luis Potosi,San Luis Potosi,Mexico,22.154677,-100.949013,No,Casual Drinker,Car,Single,Independent,23,Student,Low
+U1092,San Luis Potosi,San Luis Potosi,Mexico,22.125365,-100.947888,No,Abstemious,Public,Single,Dependent,22,,Medium
+U1093,Cuernavaca,Morelos,Mexico,18.871654,-99.183251,Yes,Casual Drinker,Car,Single,Independent,22,Student,Medium
+U1094,Ciudad Victoria,Tamaulipas,Mexico,23.73944,-99.160548,No,Abstemious,Public,Single,Independent,21,Student,Medium
+U1095,San Luis Potosi,San Luis Potosi,Mexico,22.179865,-101.018547,No,Abstemious,Public,Married,Independent,26,Student,Medium
+U1096,San Luis Potosi,San Luis Potosi,Mexico,22.1455,-100.939593,No,Abstemious,Public,Single,Independent,22,Student,Medium
+U1097,San Luis Potosi,San Luis Potosi,Mexico,22.145471,-100.939588,No,Abstemious,Public,Single,Independent,22,Student,Medium
+U1098,San Luis Potosi,San Luis Potosi,Mexico,22.182571,-100.963232,No,Social Drinker,Public,Single,Independent,21,Student,Medium
+U1099,San Luis Potosi,San Luis Potosi,Mexico,22.184862,-100.970535,Yes,Social Drinker,Public,Single,Independent,23,Student,High
+U1100,Jiutepec,Morelos,Mexico,18.879729,-99.067106,No,Casual Drinker,Public,Single,Independent,22,Student,Medium
+U1101,San Luis Potosi,San Luis Potosi,Mexico,22.150891,-100.974891,No,Casual Drinker,Car,Single,Independent,24,Student,Low
+U1102,San Luis Potosi,San Luis Potosi,Mexico,22.137131,-100.941151,No,Social Drinker,On Foot,Single,Independent,23,Student,Low
+U1103,Ciudad Victoria,Tamaulipas,Mexico,23.752265,-99.16859,No,Abstemious,Public,Single,Independent,23,Employed,Medium
+U1104,San Luis Potosi,San Luis Potosi,Mexico,22.149005,-100.978153,Yes,Social Drinker,Car,Single,Independent,21,Student,Medium
+U1105,San Luis Potosi,San Luis Potosi,Mexico,22.120019,-100.950991,No,Social Drinker,Public,Single,Independent,21,Student,Medium
+U1106,Cuernavaca,Morelos,Mexico,18.927072,-99.173584,No,Casual Drinker,Car,Single,Independent,82,Employed,Medium
+U1107,Ciudad Victoria,Tamaulipas,Mexico,23.742409,-99.171889,No,Abstemious,Car,Single,Independent,23,,High
+U1108,San Luis Potosi,San Luis Potosi,Mexico,22.143524,-100.987562,No,Abstemious,Public,Single,Independent,29,Student,Medium
+U1109,San Luis Potosi,San Luis Potosi,Mexico,22.303308,-101.05468,No,Abstemious,Public,Single,Independent,23,Student,Low
+U1110,Cuernavaca,Morelos,Mexico,18.871678,-99.183263,No,Abstemious,Car,Single,Independent,19,Student,Medium
+U1111,San Luis Potosi,San Luis Potosi,Mexico,22.143078,-100.908523,Yes,Casual Drinker,Car,Single,Independent,21,Student,Medium
+U1112,San Luis Potosi,San Luis Potosi,Mexico,22.143078,-100.908523,Yes,Casual Drinker,Car,Single,Independent,21,Student,Medium
+U1113,San Luis Potosi,San Luis Potosi,Mexico,22.137343,-100.913935,No,Casual Drinker,Public,Single,Independent,22,Student,Medium
+U1114,San Luis Potosi,San Luis Potosi,Mexico,22.177726,-101.014094,No,Abstemious,On Foot,Single,Independent,21,Student,Medium
+U1115,San Luis Potosi,San Luis Potosi,Mexico,22.138127,-100.920512,Yes,Social Drinker,Public,Single,Independent,22,Student,Low
+U1116,San Luis Potosi,San Luis Potosi,Mexico,22.156469,-100.98554,No,Social Drinker,Public,Married,Kids,25,Student,Medium
+U1117,Cuernavaca,Morelos,Mexico,18.875641,-99.220737,No,Abstemious,Public,Single,Independent,30,Employed,Medium
+U1118,Cuernavaca,Morelos,Mexico,18.940062,-99.228172,Yes,Casual Drinker,Public,Single,Independent,25,Student,Medium
+U1119,Cuernavaca,Morelos,Mexico,18.96479,-99.260017,No,Abstemious,Public,Single,Independent,20,Student,Medium
+U1120,San Luis Potosi,San Luis Potosi,Mexico,22.121857,-100.904279,No,Abstemious,Public,Single,Independent,82,Student,Low
+U1121,Cuernavaca,Morelos,Mexico,18.871674,-99.183253,No,Social Drinker,Public,Married,Independent,25,Employed,Medium
+U1122,San Luis Potosi,San Luis Potosi,Mexico,22.169601,-100.991821,,Abstemious,,,,82,,
+U1123,Ciudad Victoria,Tamaulipas,Mexico,23.753112,-99.168567,No,Abstemious,,Single,Independent,25,Student,Medium
+U1124,San Luis Potosi,San Luis Potosi,Mexico,22.137072,-100.918865,No,Casual Drinker,Public,Single,Independent,21,Student,Low
+U1125,San Luis Potosi,San Luis Potosi,Mexico,22.19204,-100.956935,No,Casual Drinker,Public,Single,Independent,22,Student,Low
+U1126,San Luis Potosi,San Luis Potosi,Mexico,22.15421,-100.942233,No,Casual Drinker,On Foot,Single,Independent,22,Student,Low
+U1127,Cuernavaca,Morelos,Mexico,18.943935,-99.206532,No,Abstemious,Public,Single,Independent,20,Student,Low
+U1128,San Luis Potosi,San Luis Potosi,Mexico,22.187236,-100.994213,No,Casual Drinker,Public,Single,Independent,26,Student,Low
+U1129,Ciudad Victoria,Tamaulipas,Mexico,23.728798,-99.134047,No,Casual Drinker,Public,Single,Independent,23,Student,Low
+U1130,Ciudad Victoria,Tamaulipas,Mexico,23.733,-99.133,,Abstemious,,,,23,,
+U1131,San Luis Potosi,San Luis Potosi,Mexico,22.138245,-100.910948,Yes,Social Drinker,Car,Married,Kids,22,Student,Medium
+U1132,San Luis Potosi,San Luis Potosi,Mexico,22.15,-100.983,No,Casual Drinker,Public,Single,,21,Student,
+U1133,Jiutepec,Morelos,Mexico,18.886698,-99.114979,No,Abstemious,Car,Single,Independent,21,Student,Medium
+U1134,San Luis Potosi,San Luis Potosi,Mexico,22.149654,-100.99861,No,Casual Drinker,Public,Single,Independent,21,Student,Medium
+U1135,San Luis Potosi,San Luis Potosi,Mexico,22.170396,-100.949936,No,Casual Drinker,On Foot,Single,Kids,24,Student,Low
+U1136,San Luis Potosi,San Luis Potosi,Mexico,22.149607,-100.997235,Yes,Social Drinker,Car,Single,Independent,22,Student,Low
+U1137,San Luis Potosi,San Luis Potosi,Mexico,22.144803,-100.944623,No,Social Drinker,Public,Single,Independent,23,Student,Low
+U1138,San Luis Potosi,San Luis Potosi,Mexico,22.152884,-100.939663,No,Social Drinker,Public,Single,Independent,21,Student,Medium
