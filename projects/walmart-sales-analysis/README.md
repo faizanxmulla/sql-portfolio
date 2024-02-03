@@ -193,7 +193,7 @@ The EDA process is undertaken to address the specified questions and achieve the
 
 ## Relevant Insights
 
-please refer  [insights.md](https://github.com/faizanxmulla/sql-portfolio/blob/walmart-analysis/projects/walmart-sales-analysis/insights.md) !!
+please refer  [insights.md](https://github.com/faizanxmulla/sql-portfolio/blob/main/projects/walmart-sales-analysis/insights.md) !!
 
 
 
