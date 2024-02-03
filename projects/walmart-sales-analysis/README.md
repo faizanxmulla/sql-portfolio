@@ -11,7 +11,7 @@
 ## Table Of Contents
   - [Introduction](#introduction)
 
-  - [Dataset Description](#datasets-description)
+  - [Dataset Description](#dataset-description)
 
   - [Recommended Analysis](#recommended-analysis)
   
@@ -91,7 +91,7 @@ This dataset contains 4 files, in CSV format:
 
 ## Approach 
 
-`Data Preparation` :  (refer [schema.sql](https://github.com/faizanxmulla/sql-portfolio/blob/walmart-analysis/projects/walmart-sales-analysis/schema.sql))
+`Data Preparation` :  (refer [schema.sql](https://github.com/faizanxmulla/sql-portfolio/blob/main/projects/walmart-sales-analysis/schema.sql))
 
 - The initial step involves scrutinizing the data to identify and address NULL or missing values.
 
@@ -100,7 +100,7 @@ This dataset contains 4 files, in CSV format:
 - Setting each field as NOT NULL during table creation ensures the absence of NULL values.
 
 
-`Feature Engineering` : (refer [schema.sql](https://github.com/faizanxmulla/sql-portfolio/blob/walmart-analysis/projects/walmart-sales-analysis/schema.sql))
+`Feature Engineering` : (refer [schema.sql](https://github.com/faizanxmulla/sql-portfolio/blob/main/projects/walmart-sales-analysis/schema.sql))
 
 New columns are generated from existing ones to enhance the dataset.
 
@@ -111,7 +111,7 @@ New columns are generated from existing ones to enhance the dataset.
 - The `"month_name"` column highlights the month of the year for each transaction (Jan, Feb, Mar), facilitating the analysis of monthly sales and profits.
 
 
-`Exploratory Data Analysis (EDA)` : (refer [solution.md](https://github.com/faizanxmulla/sql-portfolio/blob/walmart-analysis/projects/walmart-sales-analysis/solution.md))
+`Exploratory Data Analysis (EDA)` : (refer [solution.md](https://github.com/faizanxmulla/sql-portfolio/blob/main/projects/walmart-sales-analysis/solution.md))
 
 The EDA process is undertaken to address the specified questions and achieve the outlined objectives in this project.
 
