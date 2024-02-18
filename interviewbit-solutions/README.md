@@ -62,7 +62,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 1 |[Conditional Work](https://www.interviewbit.com/problems/conditional-work/) | 🟡 | [Solution](02%20-%20Advanced%20Select/1-conditional-work.sql) |
 | 2 |[Role Ordering](https://www.interviewbit.com/problems/role-ordering/) | 🔴 | [Solution](02%20-%20Advanced%20Select/2-role-ordering.sql) |
 | 3 |[Role Player](https://www.interviewbit.com/problems/role-player/) | 🔴 | [Solution](02%20-%20Advanced%20Select/3-role-player.sql) |
-| 4 |[Role Counter](https://www.interviewbit.com/problems/role-conuter/) | 🟡 | [Solution](02%20-%20Advanced%20Select/4-role-counter.sql)|
+| 4 |[Role Counter](https://www.interviewbit.com/problems/role-counter/) | 🟡 | [Solution](02%20-%20Advanced%20Select/4-role-counter.sql)|
 | 5 |[Vowel Country](https://www.interviewbit.com/problems/vowel-country/) | 🟡 | [Solution](02%20-%20Advanced%20Select/5-vowel-country.sql) |
 
 
@@ -88,7 +88,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 14| [Tournament 2.0](https://www.interviewbit.com/problems/tournament-2-0/) | 🔴 | [Solution](03%20-%20Aggregation/14-tournament-2-0.sql) |
 | 15| [Job Offer](https://www.interviewbit.com/problems/job-offer/) | 🔴 | [Solution](03%20-%20Aggregation/15-job-offer.sql) |
 | 16| [Next & Previous](https://www.interviewbit.com/problems/next-and-previous/) | 🔴 | [Solution](03%20-%20Aggregation/16-next-and-previous.sql) |
-olution
+
 
 
 ### 4. Basic Join
@@ -114,7 +114,7 @@ olution
 |    4   | [Number of Offers](https://www.interviewbit.com/problems/number-of-offers/)             | 🔴 | [Solution](05%20-%20SQL%20Joins/4-number-of-offers.sql)               |
 |    5   | [Neutral Reviewers](https://www.interviewbit.com/problems/neutral-reviewers/) | 🟢 | [Solution](05%20-%20SQL%20Joins/5-neutral-reviewers.sql) |
 |    6   | [Movie Character](https://www.interviewbit.com/problems/movie-character/)             | 🟡 | [Solution](05%20-%20SQL%20Joins/6-movie-character.sql)               |
-|    7   | [Short Films](https://www.interviewbit.com/problems/short-films/) | 🟡 | [Solution](05%20-%20SQL%20Joins/7-15-days-of-learning-sql.sql) |
+|    7   | [Short Films](https://www.interviewbit.com/problems/short-films/) | 🟡 | [Solution](05%20-%20SQL%20Joins/7-short-films.sql) |
 
 
 ### 6. SQL Subqueries
