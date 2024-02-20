@@ -112,7 +112,7 @@ In the below table, the columns indicate the following attributes related to the
 | 1 | [Population Consensus](https://www.hackerrank.com/challenges/asian-population/problem) | 🟢 | [Solution](04%20-%20Basic%20Joins/1-population-consensus.sql) |
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | 🟢 | [Solution](04%20-%20Basic%20Joins/2-african-cities.sql) |
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | 🟢 | [Solution](04%20-%20Basic%20Joins/3-average-population-of-each-continent.sql) |
-| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/submissions/code/94188063) | 🟡 | [Solution](04%20-%20Basic%20Joins/4-the-report.sql) |
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | 🟡 | [Solution](04%20-%20Basic%20Joins/4-the-report.sql) |
 | 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | 🟡 | [Solution](04%20-%20Basic%20Joins/5-top-competitors.sql) |
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | 🟡 | [Solution](04%20-%20Basic%20Joins/6-ollivanders-inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | 🟡 | [Solution](04%20-%20Basic%20Joins/7-challenges.sql) |
@@ -136,7 +136,7 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID |                 Challenges                            |             Difficulty            |  Solutions     |
 |:------:|:-----------------------------------------------------:|:---------------------------------:|:--------------:|
-|    1   | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | 🟢 | [Solution](06%20-%20Alternative%20Queries/1-draw-the-triangle-1.sql) |
+|    1   | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | 🟢 | [Solution](06%20-%20Alternative%20Queries/1-draw-the-triangle-1.sql) |
 |    2   | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)             | 🟢 | [Solution](06%20-%20Alternative%20Queries/2-draw-the-triangle-2.sql)               |
 |    3   | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | 🟡 | [Solution](06%20-%20Alternative%20Queries/3-print-prime-numbers.sql) |
 
