@@ -8,12 +8,12 @@
 </p>
 
 ## Description
-The compiled solutions encompass all SQL questions, ranging from `Easy` to `Hard`, on [DataLemur](https://datalemur.com/questions). These solutions were executed on the integrated PostgreSQL environment.
+The compiled solutions encompass all SQL questions, ranging from `Easy` to `Hard`, on [DataLemur](https://datalemur.com/questions?category=SQL). These solutions were executed on the integrated PostgreSQL environment.
 
 
 #### NOTE : *Referral code*
 
-Get access to `bonus content and exclusive prizes` for `both` of us by signing-up, followed by email verification using this [referral code link.](https://datalemur.com?referralCode=i4hQy31f)
+Get access to `bonus content and exclusive prizes` for `BOTH` of us by signing-up, followed by email verification using this [referral code link.](https://datalemur.com?referralCode=i4hQy31f)
 
 
 
