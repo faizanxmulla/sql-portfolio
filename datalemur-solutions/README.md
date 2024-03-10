@@ -8,12 +8,12 @@
 </p>
 
 ## Description
-The compiled solutions encompass all SQL questions, ranging from `Easy` to `Hard`, on [DataLemur](https://datalemur.com/questions). These solutions were executed on the integrated PostgreSQL environment.
+The compiled solutions encompass all SQL questions, ranging from `Easy` to `Hard`, on [DataLemur](https://datalemur.com/questions?category=SQL). These solutions were executed on the integrated PostgreSQL environment.
 
 
 #### NOTE : *Referral code*
 
-Get access to `bonus content and exclusive prizes` for `both` of us by signing-up, followed by email verification using this [referral code link.](https://datalemur.com?referralCode=i4hQy31f)
+Get access to `bonus content and exclusive prizes` for `BOTH` of us by signing-up, followed by email verification using this [referral code link.](https://datalemur.com?referralCode=i4hQy31f)
 
 
 
@@ -23,7 +23,7 @@ In the below tables, the columns indicate the following attributes related to th
 
 - **ID :** Identity column for individual challenge
 
-- **Challenge :** Link to the SQL challenge hosted on [DataLemur][website-link]
+- **Challenge :** Link to the SQL challenge hosted on [DataLemur](https://datalemur.com/questions?category=SQL)
 
 - **Solution Script :** Link to the solution SQL script hosted in this repository.
 
@@ -40,7 +40,7 @@ In the below tables, the columns indicate the following attributes related to th
   - [Questions not included](#questions-not-included)
 
 
-#### Difficulty : **Easy 🟢** *(27/32)*
+#### Difficulty : **Easy 🟢** *(30/34)*
 
 | ID | Challenge | Solutions| Company|
 |:------:|------------|:---------:|:---------:|
@@ -71,9 +71,12 @@ In the below tables, the columns indicate the following attributes related to th
 | 25 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](1%20-%20Easy/25-ad-campaign-roas.sql) | Google
 | 26 | [Who Made Quota? ](https://datalemur.com/questions/oracle-sales-quota) | [Solution](1%20-%20Easy/26-sales-quota.sql) | Oracle
 | 27 (Bonus)| [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](1%20-%20Easy/27-average-deal-size-part-1.sql) | Salesforce
+| 28 (Bonus)| [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](1%20-%20Easy/28-patient-support-analysis-part-1.sql) | United Health
+| 29 (Bonus)| [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](1%20-%20Easy/29-patient-support-analysis-part-2.sql) | United Health
+| 30 | [Trade In Payouts](https://datalemur.com/questions/trade-in-payouts) | [Solution](1%20-%20Easy/30-trade-in-payouts.sql) | Apple
 
 
-#### Difficulty : **Medium 🟡** *(27/36)*
+#### Difficulty : **Medium 🟡** *(28/36)*
 
 | ID | Challenge | Solutions | Company |
 |:------:|------------|:---------:|:---------:|
@@ -81,7 +84,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 02 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](2%20-%20Medium/02-sending-vs-opening-snaps.sql) | Snapchat
 | 03 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](2%20-%20Medium/03-tweets-rolling-averages.sql) | X
 | 04 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](2%20-%20Medium/04-highest-grossing-items.sql) | Amazon
-| 05 | [Top 5 Artists](https://datalemur.com/questions/top-5-artists) | [Solution](2%20-%20Medium/05-top-5-artists.sql) | Spotify
+| 05 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](2%20-%20Medium/05-top-5-artists.sql) | Spotify
 | 06 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](2%20-%20Medium/06-signup-confirmation-rate.sql) | TikTok
 | 07 | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](2%20-%20Medium/07-fill-missing-client-data.sql) | Accenture
 | 08 | [Spotify Streaming History](https://datalemur.com/questions/spotify-streaming-history) | [Solution](2%20-%20Medium/08-spotify-streaming-history.sql) | Spotify
@@ -102,12 +105,14 @@ In the below tables, the columns indicate the following attributes related to th
 | 23 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](2%20-%20Medium/23-invalid-search-results.sql) | Google
 | 24 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](2%20-%20Medium/24-repeat-purchases-on-multiple-days.sql) | Stitch Fix
 | 25 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](2%20-%20Medium/25-compensation-outliers.sql) | Accenture
-| 26 (Bonus)| [Best-Selling Product](https://datalemur.com/questions/best-selling-products) | [Solution](2%20-%20Medium/26-best-selling-products.sql) | Amazon
-| 27 (Bonus)| [NYC Area Code](https://datalemur.com/questions/nyc-area-code) | [Solution](2%20-%20Medium/27-nyc-area-code.sql) | Verizon
+| 26 | [Google Maps Flagged UGC ](https://datalemur.com/questions/off-topic-maps-ugc) | [Solution](2%20-%20Medium/26-google-maps-flagged-ugc.sql) | Google
+| 27 (Bonus)| [Best-Selling Product](https://datalemur.com/questions/best-selling-products) | [Solution](2%20-%20Medium/27-best-selling-products.sql) | Amazon
+| 28 (Bonus)| [NYC Area Code](https://datalemur.com/questions/nyc-area-code) | [Solution](2%20-%20Medium/28-nyc-area-code.sql) | Verizon
 
 
 
-#### Difficulty : **Hard 🔴** *(12/26)*
+
+#### Difficulty : **Hard 🔴** *(15/26)*
 
 | ID | Challenge | Solutions | Compaany |
 |:------:|------------|:---------:|:---------:|
@@ -122,7 +127,10 @@ In the below tables, the columns indicate the following attributes related to th
 | 09 | [Server Utilization Time](https://datalemur.com/questions/total-utilization-time) | [Solution](3%20-%20Hard/09-total-utilization-time.sql) | Amazon
 | 10 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution](3%20-%20Hard/10-monthly-merchant-balance.sql) | Visa
 | 11 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution](3%20-%20Hard/11-bad-delivery-rate.sql) | DoorDash
-| 12 (Bonus)| [3-Day Rolling Earnings](https://datalemur.com/questions/3d-rolling-earnings) | [Solution](3%20-%20Hard/12-3d-rolling-earnings.sq/) | Stripe
+| 12 | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec) | [Solution](3%20-%20Hard/12-event-friends-rec.sql) | Meta
+| 13 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | [Solution](3%20-%20Hard/13-concurrent-user-sessions.sql) | Pinterest
+| 14 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | [Solution](3%20-%20Hard/14-follow-up-airpod-percentage.sql) | Apple
+| 15 (Bonus)| [3-Day Rolling Earnings](https://datalemur.com/questions/3d-rolling-earnings) | [Solution](3%20-%20Hard/15-3d-rolling-earnings.sq/) | Stripe
 
 
 
@@ -133,14 +141,12 @@ In the below tables, the columns indicate the following attributes related to th
 | 01 | [QuickBooks vs TurboTax ](https://datalemur.com/questions/quickbooks-vs-turbotax) | 🟢 | [Solution](1%20-%20Easy/quickbooks-vs-turbotax.sql) | Intuit
 | 02 | [Most Expensive Purchase ](https://datalemur.com/questions/most-expensive-purchase) | 🟢 | [Solution](1%20-%20Easy/most-expensive-purchase.sql) | Amazon
 | 03 | [Product Line Revenue ](https://datalemur.com/questions/revenue-by-product-line) | 🟢 | [Solution](1%20-%20Easy/product-line-revenue.sql) | NVIDIA
-| 04 | [Trade In Payouts ](https://datalemur.com/questions/trade-in-payouts) | 🟢 | [Solution](1%20-%20Easy/trade-in-payouts.sql) | Apple
 | 05 | [Webinar Popularity ](https://datalemur.com/questions/snowflake-webinar-popularity) | 🟢 | [Solution](1%20-%20Easy/webinar-popularity.sql) | Snowflake
 | 06 | [Mean, Median, Mode](https://datalemur.com/questions/mean-median-mode) | 🟡 | [Solution](2%20-%20Medium/mean-median-mode.sql) | Microsoft
 | 07 | [Pharmacy Analytics (Part 4)](https://datalemur.com/questions/top-drugs-sold) | 🟡 | [Solution](2%20-%20Medium/pharmacy-analytics-4.sql) | CVS Health
 | 08 | [Booking Referral Source](https://datalemur.com/questions/booking-referral-source) | 🟡 | [Solution](2%20-%20Medium/booking-referral-source.sql) | Airbnb
 | 09 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | 🟡 | [Solution](2%20-%20Medium/amazon-shopping-spree.sql) | Amazon
 | 10 | [2nd Ride Delay](https://datalemur.com/questions/2nd-ride-delay) | 🟡 | [Solution](2%20-%20Medium/2nd-ride-delay.sql) | Uber
-| 11 | [Google Maps Flagged UGC ](https://datalemur.com/questions/off-topic-maps-ugc) | 🟡 | [Solution](2%20-%20Medium/google-maps-flagged-ugc.sql) | Google
 | 12 | [Email Table Transformation](https://datalemur.com/questions/email-table-transformation) | 🟡 | [Solution](2%20-%20Medium/email-table-transformation.sql) | Meta
 | 13 | [Sales Team Compensation](https://datalemur.com/questions/sales-team-compensation) | 🟡 | [Solution](2%20-%20Medium/sales-team-compensation.sql) | Oracle
 | 14 | [Average Deal Size (Part 2)](https://datalemur.com/questions/sql-average-deal-size-2) | 🟡 | [Solution](2%20-%20Medium/average-deal-size-2.sql) | Salesforce
@@ -149,12 +155,9 @@ In the below tables, the columns indicate the following attributes related to th
 | 17 | [Compressed Median](https://datalemur.com/questions/compressed-median) | 🔴 | [Solution](3%20-%20Hard/compressed-median.sql) | Alibaba
 | 18 | [Average Vacant Days](https://datalemur.com/questions/average-vacant-days) | 🔴 | [Solution](3%20-%20Hard/average-vacant-days.sql) | Airbnb
 | 19 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | 🔴 | [Solution](3%20-%20Hard/same-week-purchase.sql) | Etsy
-| 20 | [Follow-Up Airpod Percentage](https://datalemur.com/questions/follow-up-airpod-percentage) | 🔴 | [Solution](3%20-%20Hard/follow-up-airpod-percentage.sql) | Apple
-| 21 | [User Concurrent Sessions](https://datalemur.com/questions/concurrent-user-sessions) | 🔴 | [Solution](3%20-%20Hard/concurrent-user-sessions.sql) | Pinterest
 | 22 | [Page Recommendation](https://datalemur.com/questions/page-recommendation) | 🔴 | [Solution](3%20-%20Hard/page-recommendation.sql) | Meta
 | 23 | [Reactivated Users](https://datalemur.com/questions/reactivated-users) | 🔴 | [Solution](3%20-%20Hard/reactivated-users.sql) | Meta
 | 24 | [Senior Managers](https://datalemur.com/questions/senior-managers-reportees) | 🔴 | [Solution](3%20-%20Hard/senior-managers-reportees.sql) | Google
-| 25 | [Event Friends Recommendation](https://datalemur.com/questions/event-friends-rec) | 🔴 | [Solution](3%20-%20Hard/event-friends-rec.sql) | Meta
 | 26 | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | 🔴 | [Solution](3%20-%20Hard/matching-rental-amenities.sql) | Airbnb
 | 27 | [Weekly Churn Rates](https://datalemur.com/questions/first-month-retention) | 🔴 | [Solution](3%20-%20Hard/first-month-retention.sql) | Meta
 | 28 | [Uniquely Staffed Consultants](https://datalemur.com/questions/uniquely-staffed-consultants) | 🔴 | [Solution](3%20-%20Hard/uniquely-staffed-consultants.sql) | Accenture
@@ -163,6 +166,7 @@ In the below tables, the columns indicate the following attributes related to th
 ## References
 
 - [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+
 - [Github](https://github.com/quantumudit/DataLemur-SQL-Challenges?tab=readme-ov-file)
 
 
