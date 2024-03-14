@@ -4,10 +4,14 @@
 -- In case of a tie, order it by contest_id in ascending order.
 
 
-
 SELECT   contest_id, 
-         COUNT(user_id),
-         ROUND(100 * (COUNT(user_id) / (SELECT COUNT(*) FROM Users)) , 2) as percentage
+         ROUND((COUNT(user_id) / (SELECT COUNT(*) FROM Users)) * 100, 2) as percentage
 FROM     Register
 GROUP BY 1
 ORDER BY 2 DESC, 1
+
+
+
+-- remarks: was messing up this part --> SELECT COUNT(*) FROM Users
+
+
