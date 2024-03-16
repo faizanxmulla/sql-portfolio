@@ -66,7 +66,7 @@ Three key datasets for this case study are :
 
 - [Entity Relationaship Diagram - dbdiagram.io](https://dbdiagram.io/d/Dannys-Diner-608d07e4b29a09603d12edbd?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
-- [Schema SQL - DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138)
+- [Schema SQL - DB Fiddle](https://www.db-fiddle.com/f/4hUAAf83SKPApsRxxyK7d/5)
 
 ## Contributing
 
