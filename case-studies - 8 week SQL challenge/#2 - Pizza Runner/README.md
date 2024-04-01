@@ -9,7 +9,6 @@
 
 - [Dataset](#dataset)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Data Clean](#data-clean)
 - [Case Study Solutions](#case-study-solutions)
 - [Relevant Links](#relevant-links)
 - [Contributing](#contributing)
@@ -41,7 +40,8 @@ Key datasets for this case study
 
 ## Entity Relationship Diagram
 
-<iframe width="560" height="315" src='https://dbdiagram.io/d/Pizza-Runner-5f3e085ccf48a141ff558487?utm_source=dbdiagram_embed&utm_medium=bottom_open'> </iframe>
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/138d7a99-b7ca-4531-b649-0f663c87e97a)
+
 
 ## Case Study Solutions
 
@@ -61,7 +61,6 @@ Key datasets for this case study
 
 - [Entity Relationaship Diagram - dbdiagram.io](https://dbdiagram.io/d/Pizza-Runner-5f3e085ccf48a141ff558487?utm_source=dbdiagram_embed&utm_medium=bottom_open)
 
-- [Schema SQL - DB Fiddle](https://www.db-fiddle.com/f/7VcQKQwsS3CTkGRFG7vu98/65)
 
 ## Contributing
 

@@ -8,7 +8,10 @@ Upon observing the `customer_orders` table below, we can see that there are :
 
 - Missing values ' ' and null values in the `extras` column.
 
-![Before Removing NULL values](assets/before%20cleaning.png)
+Result set **before removing null values** : 
+
+![before cleaning](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/5fe46968-d22d-41b6-b0ce-625c89386f52)
+
 
 In order to remove these values, we will:
 
@@ -40,6 +43,8 @@ FROM   temp_customer_orders;
 ```
 
 #### Result set:
+
+![1](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/5030fd34-061e-4af7-8e42-41be49046ec8)
 
 
 ---
@@ -90,5 +95,6 @@ FROM   temp_runner_orders;
 
 #### Result set:
 
+![2](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/073a0073-192f-42c9-a356-ddf753877ec3)
 
 ---
