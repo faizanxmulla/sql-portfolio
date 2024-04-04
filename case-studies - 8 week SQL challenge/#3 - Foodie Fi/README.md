@@ -54,6 +54,7 @@ When customers churn, they will keep their access until the end of their current
 ## Entity Relationship Diagram
 
 
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/8267170d-39fc-4907-8425-ed6c185f14be)
 
 
 
