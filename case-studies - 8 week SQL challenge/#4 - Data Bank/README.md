@@ -80,6 +80,7 @@ customer_id |	txn_date |	txn_type |	txn_amount |
 
 ## Entity Relationship Diagram
 
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/9eb590d1-4234-462e-987d-f836a424ba05)
 
 
 
