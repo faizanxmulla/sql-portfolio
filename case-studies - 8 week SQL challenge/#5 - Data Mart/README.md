@@ -60,6 +60,7 @@ week_date |	region |	platform |	segment |	customer_type |	transactions |	sales |
 
 ## Entity Relationship Diagram
 
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/eb182ea6-ba56-465d-b155-e786b252cd4a)
 
 
 
