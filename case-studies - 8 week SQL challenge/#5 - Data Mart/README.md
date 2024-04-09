@@ -75,12 +75,6 @@ week_date |	region |	platform |	segment |	customer_type |	transactions |	sales |
 
 
 
-## Relevant Links
-
-
-- [Schema SQL - DB Fiddle](https://www.db-fiddle.com/f/7VcQKQwsS3CTkGRFG7vu98/65)
-
-
 ## Contributing
 `Contributions` are always welcome !!
 
