@@ -78,6 +78,7 @@ id |	product_id |	price |
 
 ## Entity Relationship Diagram
 
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/3215b26a-b28c-4562-86e6-e07ffda2b30b)
 
 
 
