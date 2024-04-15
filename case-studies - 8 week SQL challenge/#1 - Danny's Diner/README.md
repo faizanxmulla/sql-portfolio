@@ -40,7 +40,7 @@ Three key datasets for this case study are :
 
 ## Entity Relationship Diagram
 
-<iframe width="560" height="315" src='https://dbdiagram.io/d/Dannys-Diner-608d07e4b29a09603d12edbd?utm_source=dbdiagram_embed&utm_medium=bottom_open'> </iframe>
+![image](https://github.com/faizanxmulla/sql-portfolio/assets/71728480/df17bd9b-c1c7-40ad-80f5-c4c4a3cac58e)
 
 ## Case Study Questions
 
