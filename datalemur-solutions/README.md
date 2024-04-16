@@ -31,11 +31,11 @@ In the below tables, the columns indicate the following attributes related to th
 
 
 ### Table Of Contents
-  - [Easy](#difficulty--easy-🟢-2732)
+  - [Easy](#difficulty--easy-🟢-3034)
 
-  - [Medium](#difficulty--medium-🟡-2736)
+  - [Medium](#difficulty--medium-🟡-2836)
 
-  - [Hard](#difficulty--hard-🔴-1226)
+  - [Hard](#difficulty--hard-🔴-1526)
 
   - [Questions not included](#questions-not-included)
 
