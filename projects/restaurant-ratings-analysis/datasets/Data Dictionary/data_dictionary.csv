@@ -1,0 +1,34 @@
+﻿Table,Field,Description
+Consumers,Consumer_ID,Unique identifier for each consumer
+,City,City where the consumer lives
+,State,State where the consumer lives
+,Country,Country where the consumer lives
+,Latitude,Latitude where the consumer lives
+,Longitude,Longitude where the consumer lives
+,Smoker,Whether the consumer smokes or not
+,Drink_Level,"Whether the consumer is an abstemious, causal, or social drinker"
+,Transportation_Method,"Whether the consumer transports on foot, by public transport, or by car"
+,Marital_Status,The consumer's marital status (single or married)
+,Children,Whether the consumer has dependent/independent children or kids
+,Age,The consumer's age
+,Occupation,"The consumer's occupation (student, employed, or unemployed)"
+,Budget,"The consumer's budget (low, medium, high)"
+Consumer_Preferences,Preferred_Cuisine,Types of food the consumer prefers
+Ratings,Overall_Rating,"The overall rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory) "
+,Food_Rating,"The food's rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory) "
+,Service_Rating,"The service rating by the consumer for the restaurant (0=Unsatisfactory, 1=Satisfactory, 2=Highly Satisfactory) "
+Restaurants,Restaurant_ID,Unique identifier for each restaurant
+,Name,The restaurant's name
+,City,The restaurant's city
+,State,The restaurant's state
+,Country,The restaurant's country
+,Zip_Code,The restaurat's zip code
+,Latitude,The restaurant's latitude
+,Longitude,The restaurant's longitude
+,Alcohol_Service,"Whether the restaurant seves no alcohol, wine & beer, or a full bar"
+,Smoking_Allowed,"Whether any smoking is allowed, including in the bar or in smoking sections"
+,Price,"The restaurant's price (low, medium, high)"
+,Franchise,Whether the restaurant is a franchise
+,Area,Whether the restaurant is in an open or closed area
+,Parking,"Whether the restaurant offers any sort of parking (none, yes, public, valet)"
+Restaurant_Cuisines,Cuisine,Types of food the restaurant serves
