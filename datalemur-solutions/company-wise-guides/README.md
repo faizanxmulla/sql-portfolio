@@ -21,30 +21,30 @@ The solutions cover a wide range of difficulties providing a comprehensive resou
 
 ## Table of Contents / Company Categories
 
-- [FAANG](#faang)
+- [FAANG](#faang-6)
 
-- [Cloud Computing and Data Management](#cloud-computing-and-data-management)
+- [Cloud Computing and Data Management](#cloud-computing-and-data-management-3)
 
-- [Cybersecurity](#cybersecurity)
+- [Cybersecurity](#cybersecurity-4)
 
-- [E-Commerce and Online Platforms](#e-commerce-and-online-platforms)
-- [Enterprise Software](#enterprise-software)
-- [Hardware and Semiconductor](#hardware-and-semiconductor)
+- [E-Commerce and Online Platforms](#e-commerce-and-online-platforms-3)
+- [Enterprise Software](#enterprise-software-9)
+- [Hardware and Semiconductor](#hardware-and-semiconductor-3)
 
 - [Internet Services Categories](#internet-services-categories)
-  - [Analytics and Monitoring](#analytics-and-monitoring)
+  - [Analytics and Monitoring](#analytics-and-monitoring-2)
 
-  - [Food Delivery](#food-delivery)
+  - [Food Delivery](#food-delivery-2)
 
-  - [Hospitality and Travel](#hospitality-and-travel)
+  - [Hospitality and Travel](#hospitality-and-travel-2)
 
-  - [Online Education](#online-education)
+  - [Online Education](#online-education-1)
 
-  - [Ride-Sharing](#ride-sharing)
+  - [Ride-Sharing](#ride-sharing-2)
 
-  - [Social Media and Messaging](#social-media-and-messaging)
+  - [Social Media and Messaging](#social-media-and-messaging-3)
 
-- [Others](#others)
+- [Others](#others-4)
 
 
 ---
