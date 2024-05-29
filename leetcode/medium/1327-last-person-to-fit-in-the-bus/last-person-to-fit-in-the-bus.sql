@@ -1,11 +1,11 @@
-with cumulative_weight as (
-    SELECT *, sum(weight) over(order by turn)
+WITH cumulative_wt AS (
+    SELECT *, SUM(weight) OVER(ORDER BY turn) AS sum
     FROM   Queue
 )
 SELECT   person_name
-FROM     cumulative_weight
+FROM     cumulative_wt
 WHERE    sum <= 1000
-ORDER BY turn desc
+ORDER BY turn DESC
 LIMIT    1
 
 
