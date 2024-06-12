@@ -9,7 +9,9 @@
 
 ## Description
 
-The compiled solutions encompass all SQL questions, ranging from `Medium` to `Hard`, on [Stratascratch](https://datalemur.com/questions), with more focus on `Hard` problems. These solutions were executed on the integrated PostgreSQL environment.
+The compiled solutions encompass all SQL questions, ranging from `Medium` to `Hard`, on [Stratascratch](https://platform.stratascratch.com/coding?code_type=1&page_size=50), with majority of focus on `Hard` problems. 
+
+These solutions were executed on the integrated **PostgreSQL** environment.
 
 ## Solution Table
 
@@ -17,15 +19,17 @@ In the below tables, the columns indicate the following attributes related to th
 
 - **ID :** Identity column for individual challenge
 
-- **Challenge :** Link to the SQL challenge hosted on [DataLemur][website-link]
+- **Challenge :** Link to the SQL challenge hosted on [Stratascratch](https://platform.stratascratch.com/coding?code_type=1&page_size=50)
 
 - **Solution Script :** Link to the solution SQL script hosted in this repository.
 
-#### Difficulty : **Hard 🔴** _(104/117)_
 
 ## List of Questions
 
-| Sr. | ID    | Title                                                                                                                                                                                                                 | Solution                                                                    |
+### Difficulty : **Hard 🔴** _(106/117)_
+
+
+| Sr. | ID    | Title                                                                                                                                                                                                                 | Solution Link                                                                  |
 | --- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 1   | 514   | [Marketing Campaign Success [Advanced]](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=1)                                                                                | [Solution](Hard/514-marketing-campaign-success-advanced.sql)                |
 | 2   | 2007  | [Rank Variance Per Country](https://platform.stratascratch.com/coding/2007-rank-variance-per-country?code_type=1)                                                                                                     | [Solution](Hard/2007-rank-variance-per-country.sql)                         |
@@ -119,18 +123,22 @@ In the below tables, the columns indicate the following attributes related to th
 | 90  | 10069 | [Correlation Between E-mails And Activity Time](https://platform.stratascratch.com/coding/10069-correlation-between-e-mails-and-activity-time?code_type=1)                                                            | [Solution](Hard/10069-correlation-between-e-mails-and-activity-time.sql)    |
 | 91  | 10081 | [Employee Bonus problem](https://platform.stratascratch.com/coding/10081-find-the-number-of-employees-who-received-the-bonus-and-who-didnt?code_type=1)                                                               | [Solution](Hard/10081-employee-bonus-problem.sql)                           |
 | 92  | 10084 | [Cum Sum Energy Consumption](https://platform.stratascratch.com/coding/10084-cum-sum-energy-consumption?code_type=1)                                                                                                  | [Solution](Hard/10084m-energy-consumption.sql)                              |
-| 93  | 10171 | [Genre with most Oscar Winnings](https://platform.stratascratch.com/coding/10171-find-the-genre-of-the-person-with-the-most-number-of-oscar-winnings?code_type=1)                                                     | [Solution](Hard/10171-genre-with-most-oscar-winnings.sql)                   |
-| 94  | 10172 | [Best Selling Item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1)                                                                                                                    | [Solution](Hard/10172-best-selling-item.sql)                                |
-| 95  | 10173 | [Days At Number One](https://platform.stratascratch.com/coding/10173-days-at-number-one?code_type=1)                                                                                                                  | [Solution](Hard/10173-days-at-number-one.sql)                               |
-| 96  | 10284 | [Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)                                                                                                            | [Solution](Hard/10284-popularity-percentage.sql)                            |
-| 97  | 10297 | [Comments Distribution](https://platform.stratascratch.com/coding/10297-comments-distribution?code_type=1)                                                                                                            | [Solution](Hard/10297-comments-distribution.sql)                            |
-| 98  | 10300 | [Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)                                                                                                                | [Solution](Hard/10300-premium-vs-freemium.sql)                              |
-| 99  | 10302 | [Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1)                                                                                                                | [Solution](Hard/10302-distance-per-dollar.sql)                              |
-| 100 | 10303 | [Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1)                                                                                                              | [Solution](Hard/10303-top-percentile-fraud.sql)                             |
-| 101 | 10313 | [Naive Forecasting](https://platform.stratascratch.com/coding/10313-naive-forecasting?code_type=1)                                                                                                                    | [Solution](Hard/10313-naive-forecasting.sql)                                |
-| 102 | 10314 | [Revenue Over Time](https://platform.stratascratch.com/coding/10314-revenue-over-time?code_type=1)                                                                                                                    | [Solution](Hard/10314-revenue-over-time.sql)                                |
-| 103 | 10319 | [Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)                                                                                            | [Solution](Hard/10319-monthly-percentage-difference.sql)                    |
-| 104 | 10350 | [Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1)                                                                                                            | [Solution](Hard/10350-algorithm-performance.sql)                            |
+| 93  | 10131 | [Business Name Lengths](https://platform.stratascratch.com/coding/10131-business-name-lengths?code_type=1)   |                                                                                        [Solution](Hard/10131-business-name-lengths.sql)                              |
+| 94  | 10171 | [Genre with most Oscar Winnings](https://platform.stratascratch.com/coding/10171-find-the-genre-of-the-person-with-the-most-number-of-oscar-winnings?code_type=1)                                                     | [Solution](Hard/10171-genre-with-most-oscar-winnings.sql)                   |
+| 95  | 10172 | [Best Selling Item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1)                                                                                                                    | [Solution](Hard/10172-best-selling-item.sql)                                |
+| 96  | 10173 | [Days At Number One](https://platform.stratascratch.com/coding/10173-days-at-number-one?code_type=1)                                                                                                                  | [Solution](Hard/10173-days-at-number-one.sql)                               |
+| 97  | 10284 | [Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1)                                                                                                            | [Solution](Hard/10284-popularity-percentage.sql)                            |
+| 98  | 10297 | [Comments Distribution](https://platform.stratascratch.com/coding/10297-comments-distribution?code_type=1)                                                                                                            | [Solution](Hard/10297-comments-distribution.sql)                            |
+| 99  | 10300 | [Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1)                                                                                                                | [Solution](Hard/10300-premium-vs-freemium.sql)                              |
+| 100  | 10302 | [Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1)                                                                                                                | [Solution](Hard/10302-distance-per-dollar.sql)                              |
+| 101 | 10303 | [Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1)                                                                                                              | [Solution](Hard/10303-top-percentile-fraud.sql)                             |
+| 102 | 10313 | [Naive Forecasting](https://platform.stratascratch.com/coding/10313-naive-forecasting?code_type=1)                                                                                                                    | [Solution](Hard/10313-naive-forecasting.sql)                                |
+| 103 | 10314 | [Revenue Over Time](https://platform.stratascratch.com/coding/10314-revenue-over-time?code_type=1)                                                                                                                    | [Solution](Hard/10314-revenue-over-time.sql)                                |
+| 104 | 10319 | [Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)                                                                                            | [Solution](Hard/10319-monthly-percentage-difference.sql)                    |
+| 105 | 10350 | [Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1)                                                                                                            | [Solution](Hard/10350-algorithm-performance.sql)                            |
+| 106 | 9918 | [Arizona, California, and Hawaii Employees](https://platform.stratascratch.com/coding/9918-arizona-california-and-hawaii-employees?code_type=1)                                                                                                            | [Solution](Hard/9918-arizona-california-hawaii.sql)                            |
+
+
 
 ## References
 
