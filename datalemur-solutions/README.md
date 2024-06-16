@@ -31,16 +31,16 @@ In the below tables, the columns indicate the following attributes related to th
 
 
 ## Table Of Contents
-  - [Easy](#difficulty--easy-🟢-3434)
+  - [Easy](#difficulty--easy-🟢-3535)
 
-  - [Medium](#difficulty--medium-🟡-4141)
+  - [Medium](#difficulty--medium-🟡-4242)
 
-  - [Hard](#difficulty--hard-🔴-2727)
-
-
+  - [Hard](#difficulty--hard-🔴-2828)
 
 
-### Difficulty : **Easy 🟢** *(34/34)*
+
+
+### Difficulty : **Easy 🟢** *(35/35)*
 
 | ID | Challenge | Solutions| Company|
 |:------:|------------|:---------:|:---------:|
@@ -78,11 +78,11 @@ In the below tables, the columns indicate the following attributes related to th
 | 32 *| [Most Expensive Purchase ](https://datalemur.com/questions/most-expensive-purchase) | [Solution](1%20-%20Easy/32-most-expensive-purchase.sql) | Amazon
 | 33 *| [Product Line Revenue ](https://datalemur.com/questions/revenue-by-product-line) | [Solution](1%20-%20Easy/33-product-line-revenue.sql) | NVIDIA
 | 34 *| [Webinar Popularity ](https://datalemur.com/questions/snowflake-webinar-popularity) | [Solution](1%20-%20Easy/34-webinar-popularity.sql) | Snowflake
+| 35 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](1%20-%20Easy/35-well-paid-employees.sql) | FAANG
 
 
 
-
-### Difficulty : **Medium 🟡** *(41/41)*
+### Difficulty : **Medium 🟡** *(42/42)*
 
 | ID | Challenge | Solutions | Company |
 |:------:|------------|:---------:|:---------:|
@@ -125,11 +125,12 @@ In the below tables, the columns indicate the following attributes related to th
 | 37 | [Patient Support Analysis (Part 2)](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](2%20-%20Medium/37-uncategorized-calls-percentage.sql) | United Health
 | 38 | [FAANG Stock Min-Max (Part 1)](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) | [Solution](2%20-%20Medium/38-faang-stock-min-max.sql) | Bloomberg
 | 39 | [FAANG Stock Inter-Month Change (Part 2)](https://datalemur.com/questions/sql-bloomberg-stock-inter-month-percentage-2) | [Solution](2%20-%20Medium/39-faang-stock-inter-month-change.sql) | Bloomberg
-| 40 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](2%20-%20Medium/40-top-three-salaries.sql) | 
-| 41 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](2%20-%20Medium/41-second-highest-salary.sql) | 
+| 40 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](2%20-%20Medium/40-top-three-salaries.sql) | FAANG
+| 41 | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) | [Solution](2%20-%20Medium/41-second-highest-salary.sql) | FAANG
+| 42 | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) | [Solution](2%20-%20Medium/42-swapped-food-delivery.sql) | Zomato
 
 
-### Difficulty : **Hard 🔴** *(27/27)*
+### Difficulty : **Hard 🔴** *(28/28)*
 
 | ID | Challenge | Solutions | Compaany |
 |:------:|------------|:---------:|:---------:|
@@ -160,7 +161,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 25 * | [Matching Rental Amenities](https://datalemur.com/questions/matching-rental-amenities) | [Solution](3%20-%20Hard/25-matching-rental-amenities.sql) | Airbnb
 | 26 * | [Weekly Churn Rates](https://datalemur.com/questions/first-month-retention) | [Solution](3%20-%20Hard/26-weekly-churn-rates.sql) | Meta
 | 27 | [FAANG Stock Identify Underperforming Stocks ](https://datalemur.com/questions/sql-bloomberg-underperforming-stocks) | [Solution](3%20-%20Hard/27-faang-underperforming-stocks.sql) | Bloomberg
-
+| 28 | [Department vs. Company Salary ](https://datalemur.com/questions/sql-department-company-salary-comparison) | [Solution](3%20-%20Hard/28-department-vs-company-salary.sql) | FAANG
 
 ## References
 
