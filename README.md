@@ -8,21 +8,21 @@ Welcome to my SQL Portfolio repository!! 🚀
 
 ## 📝 Table of Contents
 
-1. [Overview](#overview)
+1. [Overview](#-overview)
 
-2. [Case Studies - 8 week SQL challenge](#case-studies---8-week-sql-challenge)
+2. [Case Studies - 8 week SQL challenge](#-case-studies---8-week-sql-challenge)
 
-3. [Solutions by Platform](#solutions-by-platform)
+3. [Solutions by Platform](#-solutions-by-platform)
 
-4. [Projects](#projects)
+4. [Projects](#-projects)
 
-5. [Takehome Challenges](#takehome-challenges)
+5. [Takehome Challenges](#-takehome-challenges)
 
-6. [Usage Instructions](#usage-instructions)
+6. [Usage Instructions](#-usage-instructions)
 
-7. [Contribution Guidelines](#contribution-guidelines)
+7. [Contribution Guidelines](#-contribution-guidelines)
 
-8. [License](#license)
+8. [License](#-license)
 
 
 ## 📊 Overview
