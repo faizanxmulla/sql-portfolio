@@ -47,7 +47,7 @@ The best part is that they're all: **F-R-E-E !!**
 
 ### 📚 **SQL books for Data Analysts**
 
-- [Ace the Data Science Interview](https://www.amazon.in/Ace-Data-Science-Interview-Questions/dp/0578973839/ref=sr_1_3?crid=21FGFO6GSFUR3&dib=eyJ2IjoiMSJ9.39sOAPE8-XVBh34Yl0aoJy_R6Vq6sjL0XU-sLSpYI5OVcpeM9Y8Uh146s9FmgJw3MGdi8OvpNGj1KbLo6zjY8vGF2Kww35S4I_BS77jEoxK3jNDfcFueMAk-IB_adDTTwRIqf4dpjhqFDhjEqDfJ_2I9qPQURkNz_y-oXTPWNb1LTrNlWTyccWBSMAqpDa81eCd6tlzFFXvyMPNwrCJD7mEf0NT0jqNTFwNG8u1vIYo.tBSx5eH-PE5L8y_h5hCaGUdbFARVzLZE0jxogoV50qY&dib_tag=se&keywords=ace+the+data+science+interview&qid=1718535970&sprefix=ace+the+%2Caps%2C213&sr=8-3)
+- [Ace the Data Science Interview - Nick Singh](https://www.amazon.in/Ace-Data-Science-Interview-Questions/dp/0578973839/ref=sr_1_3?crid=21FGFO6GSFUR3&dib=eyJ2IjoiMSJ9.39sOAPE8-XVBh34Yl0aoJy_R6Vq6sjL0XU-sLSpYI5OVcpeM9Y8Uh146s9FmgJw3MGdi8OvpNGj1KbLo6zjY8vGF2Kww35S4I_BS77jEoxK3jNDfcFueMAk-IB_adDTTwRIqf4dpjhqFDhjEqDfJ_2I9qPQURkNz_y-oXTPWNb1LTrNlWTyccWBSMAqpDa81eCd6tlzFFXvyMPNwrCJD7mEf0NT0jqNTFwNG8u1vIYo.tBSx5eH-PE5L8y_h5hCaGUdbFARVzLZE0jxogoV50qY&dib_tag=se&keywords=ace+the+data+science+interview&qid=1718535970&sprefix=ace+the+%2Caps%2C213&sr=8-3)
 
 
 - [Practical SQL: A Beginner's Guide to Storytelling with Data](https://www.amazon.in/Practical-SQL-2nd-Beginners-Storytelling/dp/1718501064/ref=sr_1_1?crid=2N4NJGL72C9VF&dib=eyJ2IjoiMSJ9.acBdwHpR-Nlx4YNN8QR3bjDr2WSSjYGv2Z5y9dMMn6JSJDScB67akm-qmGiyn5NS-kpV4YkLv0JN5yN8ZgWRpNG-b-UYBIwITEIXmuSPirQWvO9rLsznf1HMNhZdrAoMln1OY3qDN0qt0k4tIbOkREx7i8ALA8z-zIOh_fsY7u5EIx_zco9bMBkdAuW-ngnXG678XEbhF9_7QDG2mpEJ_xSzUEGGklqBEpnyE6XhaL8.s3tC3lev9T6cPs4G8ECMsQtXXSxq0m1JhNlVRwfF1V0&dib_tag=se&keywords=practical+sql+2nd+edition&qid=1718535814&sprefix=practical+sql%2Caps%2C309&sr=8-1)
@@ -60,7 +60,11 @@ The best part is that they're all: **F-R-E-E !!**
 
 ### 📚 **Blogs and Online Tutorials**
 
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+
+- [SQLZoo Tutorial](https://sqlzoo.net/)
 
 - [Metrics Maven articles at compose.com](https://www.compose.com/articles/search/?s=metric%20maven)
 
@@ -72,23 +76,29 @@ The best part is that they're all: **F-R-E-E !!**
 
 - [Exercism.io PL/SQL Track](https://exercism.io/tracks/plsql)
 
-- [Interview Query SQL Interview Guide](https://www.interviewquery.com/blog-sql-interview-questions/)
+- [Interview Query - SQL Interview Guide](https://www.interviewquery.com/blog-sql-interview-questions/)
 
-- [Ultimate SQL Interview Guide](https://datalemur.com/blog/sql-interview-guide)
+- [Datalemur - Ultimate SQL Interview Guide](https://datalemur.com/blog/sql-interview-guide)
 
 - [SQL Tutorial for Data Scientists & Data Analysts](https://datalemur.com/sql-tutorial)
 
+- [Optimizing SQL queries - Article](https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries)
+
 
 ### 📚 **Online Resources and Cheat Sheets**
-   - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-
-   - [SQLZoo](https://sqlzoo.net/)
+   - [8 week SQL challenge - Resources](https://8weeksqlchallenge.com/resources/)
 
    - [Topmate PDF's](https://topmate.io/buydoc-success/864764?booking=8868edc9-58fd-4f35-8e15-90f03b558421)
 
 ### 📚 **GitHub Repositories**
 
 - [Cracking the SQL interview - Katie Huang](https://github.com/katiehuangx/CrackingTheSQLInterview)
+
+- [SQL Interview Prep - Aafreen29](https://github.com/Aafreen29/SQL-Interview-Prep-Question/tree/master)
+
+- [SQL Interview Questions - kansiris](https://github.com/kansiris/SQL-interview-questions)
+
+- [Best Medium-Hard Data Analyst SQL Interview Questions - Will Fong](https://gist.github.com/will-fong/a1d3710a7ebdc9764a600d8e83a6a978)
 
 
 ### 📚 **Community Forums and Discussions**
