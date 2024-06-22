@@ -1,4 +1,4 @@
-##  5 Finance Sector SQL problems
+##  5 Finance Sector SQL problems | [Solutions](solution.md)
 
 ### 1. Stale / Flat bond prices
 
