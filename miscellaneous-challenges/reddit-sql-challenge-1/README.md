@@ -12,7 +12,7 @@ Details have been well recorded, so you don't need to clean the data.
 
 ---
 
-### **Task 1:**
+### **Task 1** | [Solution](task-1-solution.md)
 
 Normally, a customer will remember to cancel a booking if they want to cancel or it.
 Unfortunately, this has been handled manually and imperfectly.
@@ -47,7 +47,7 @@ amount  |
 
 ---
 
-### **Task 2:**
+### **Task 2** | [Solution](task-2-solution.md)
 
 A stern letter with red print from the tax man sits on your desk, demanding ALL INVOICES.
 
