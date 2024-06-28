@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://www.codingninjas.com/studio/profile/1d4a79a3-4f48-4a96-8086-ca9d30a4bfcb">
-        <img height=100 width=60%  src="https://files.codingninjas.in/cn-studio-new-logo-dark-27999.svg"> 
+        <img height=100 width=60%  src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg"> 
     </a>
     <br>
     <br>
@@ -9,7 +9,7 @@
 
 ## Description
 
-The compiled solutions encompass all SQL questions, ranging from `Hard` to `Ninjas` (excluded `Easy` & `Moderate` ), on [Coding Ninjas](https://www.codingninjas.com/studio/problem-lists/top-100-sql-problems). These solutions were executed on the integrated PostgreSQL environment.
+The compiled solutions encompass all SQL questions, ranging from `Hard` to `Ninjas` (excluded `Easy` & `Moderate` ), on [Code360 (prev: Coding Ninjas)](https://www.codingninjas.com/studio/problem-lists/top-100-sql-problems). These solutions were executed on the integrated PostgreSQL environment.
 
 ## Solution Table
 
@@ -17,7 +17,7 @@ In the below tables, the columns indicate the following attributes related to th
 
 - **ID :** Identity column for individual challenge
 
-- **Challenge :** Link to the SQL challenge hosted on [Coding Ninjas](https://www.codingninjas.com/studio/problem-lists/top-100-sql-problems)
+- **Challenge :** Link to the SQL challenge hosted on [Code360.](https://www.codingninjas.com/studio/problem-lists/top-100-sql-problems)
 
 - **Solution Script :** Link to the solution SQL script hosted in this repository.
 
