@@ -11,9 +11,9 @@
 
 The compiled solutions encompass all SQL questions, ranging from `Easy` to `Hard`, on [Leetcode](https://leetcode.com/problemset/database/). These solutions were executed on the integrated PostgreSQL environment.
 
-**NOTE** : As of June 28, 2024, the number of questions solved are: 
+**NOTE** : As of July 2, 2024, the number of questions solved are: 
 
-`Easy - 43`, `Medium - 23`, `Hard - 13` =  `Total - 79`.
+`Easy - 43`, `Medium - 23`, `Hard - 22` =  `Total - 88`.
 
 
 ## Table Of Contents
