@@ -22,6 +22,36 @@ ORDER BY 1
 
 
 ```SQL
+WITH total_students_per_batch AS (
+	SELECT   batch_id, COUNT(1) AS students_per_batch
+	FROM     student_batch_maps
+	WHERE    active=True
+	GROUP BY 1
+),
+changed_batch_students AS (
+	SELECT cu.user_id as student_id, 
+		   cu.batch_id as current_batch, 
+		   pr.batch_id as prev_batch
+	FROM   student_batch_maps cu JOIN student_batch_maps pr USING(user_id)
+	WHERE  cu.active=True AND pr.active=False
+),
+students_present_per_session AS (
+	SELECT   session_id, COUNT(1) AS students_per_session
+    FROM     attendances a JOIN sessions s ON s.id=a.session_id
+	WHERE    (a.student_id, s.batch_id) NOT IN (
+	                SELECT student_id, prev_batch
+	                FROM   changed_batch_students
+				)  
+	GROUP BY 1
+	ORDER BY 1
+)
+SELECT s.id as session_id, 
+	   b.name as batch_name,
+       ROUND((students_per_session::decimal / students_per_batch) * 100.0, 2) as attendance_percentage
+FROM   sessions s JOIN total_students_per_batch USING(batch_id)
+                  JOIN students_present_per_session sp ON s.id=sp.session_id
+	              JOIN batches b ON b.id=s.batch_id
+	              JOIN users u ON u.id=s.conducted_by
 
 ```
 
@@ -57,6 +87,35 @@ ORDER BY 1
    Determine each student's attendance percentage for all sessions of their past batch, considering their active periods and transfer limits.
 
 ```SQL
+WITH total_students_per_batch AS (
+	SELECT   batch_id, sbm.user_id AS student_id, COUNT(1) AS students_per_batch
+	FROM     student_batch_maps sbm JOIN sessions s USING(batch_id)
+	WHERE    active=False
+	GROUP BY 1, 2
+	ORDER BY 1, 2
+),
+changed_batch_students AS (
+	SELECT cu.user_id as student_id, 
+		   cu.batch_id as current_batch, 
+		   pr.batch_id as prev_batch
+	FROM   student_batch_maps cu JOIN student_batch_maps pr USING(user_id)
+	WHERE  cu.active=True AND pr.active=False
+),
+students_present_per_session AS (
+	SELECT   session_id, student_id, COUNT(1) AS students_per_session
+    FROM     attendances a JOIN sessions s ON s.id=a.session_id
+	WHERE    (a.student_id, s.batch_id) IN (
+	                SELECT student_id, prev_batch
+	                FROM   changed_batch_students
+				)  
+	GROUP BY 1, 2
+	ORDER BY 1, 2
+)
+SELECT DISTINCT u.name as student_name,
+       ROUND((COALESCE(students_per_session, 0)::decimal / students_per_batch) * 100.0, 2) as attendance_percentage
+FROM   total_students_per_batch ts LEFT JOIN students_present_per_session sp USING(student_id)
+									JOIN users u ON u.id=ts.student_id
+
 
 ```
 
@@ -69,7 +128,10 @@ ORDER BY 1
    Calculate the average percentage of marks scored by each student in all tests they appeared in.
 
 ```SQL
-
+SELECT   student_id, u.name AS student_name, AVG(marks_obtained) AS avg_marks
+FROM     test_scores ts JOIN users u ON u.id=ts.student_id
+GROUP BY 1, 2
+ORDER BY 1
 ```
 
 ---
