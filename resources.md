@@ -101,6 +101,17 @@ The best part is that they're all: **F-R-E-E !!**
 - [Best Medium-Hard Data Analyst SQL Interview Questions - Will Fong](https://gist.github.com/will-fong/a1d3710a7ebdc9764a600d8e83a6a978)
 
 
+### 📚 **Games**
+
+
+- [SQL Murder Mystery](https://mystery.knightlab.com/?utm_source=ActiveCampaign&utm_medium=email&utm_content=%F0%9F%8E%AE%20%206%20stats%2Fdesign%2FSQL%20games&utm_campaign=Evergreen%2022%3A%20Game%20On%20%286%20Stats%2FUX%20Design%2FSQL%20Games%29)
+
+- [SQL Island](https://sql-island.informatik.uni-kl.de/)
+
+- [SQL Police Department](https://sqlpd.com/)
+
+
+
 ### 📚 **Community Forums and Discussions**
    - [Stack Overflow SQL Tag](https://stackoverflow.com/questions/tagged/sql)
 
