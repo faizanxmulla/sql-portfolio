@@ -67,7 +67,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 25 | [Cumulative Reset](https://www.interviewquery.com/questions/cumulative-reset) | [Solution](Hard/25-cumulative-reset.sql) |
 | 26 | [Notification Type Conversion](https://www.interviewquery.com/questions/notification-type-conversion) | [Solution](Hard/26-notification-type-conversion.sql) |
 | 27 | [Second Longest Flight](https://www.interviewquery.com/questions/second-longest-flight) | [Solution](Hard/27-second-longest-flight.sql) |
-
+| 28 | [User System Response Times](https://www.interviewquery.com/questions/user-system-response-times) | [Solution](Hard/28-user-system-response-times.sql) |
 
 
 
