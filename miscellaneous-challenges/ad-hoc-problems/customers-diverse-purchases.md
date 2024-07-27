@@ -91,9 +91,9 @@ get_median_category_percentile AS (
 get_qualifying_categories AS (
 	SELECT   categoryid, t.customerid
 	FROM     transactions t JOIN products p USING(productid)
-						    JOIN get_75th_category_percentile cp USING(categoryid) 
-						    JOIN get_median_category_percentile mcp USING(categoryid)
-						    JOIN get_lifetime_values glv USING(customerid, categoryid)
+				JOIN get_75th_category_percentile cp USING(categoryid) 
+				JOIN get_median_category_percentile mcp USING(categoryid)
+				JOIN get_lifetime_values glv USING(customerid, categoryid)
 	WHERE    lifetime_value > "50th_percentile" AND transactionamount > "75th_percentile"
 	ORDER BY 1, 2
 ),
@@ -119,24 +119,24 @@ get_top_products AS (
 ),
 get_customer_metrics AS (
 	SELECT   customerid, 
-		     SUM(transactionamount) as total_spend, 
-		     COUNT(DISTINCT transactiondate) as purchase_frequency,
-		     MAX(transactiondate) as last_purchase_date  
+		 SUM(transactionamount) as total_spend, 
+		 COUNT(DISTINCT transactiondate) as purchase_frequency,
+		 MAX(transactiondate) as last_purchase_date  
 	FROM     transactions
 	GROUP BY 1
 ),
 get_loyalty_score AS (
 	SELECT customerid, 
 	       ( 
-				PERCENT_RANK() OVER(ORDER BY total_spend) +
-	        	PERCENT_RANK() OVER(ORDER BY purchase_frequency) +
+                    PERCENT_RANK() OVER(ORDER BY total_spend) +
+                    PERCENT_RANK() OVER(ORDER BY purchase_frequency) +
 	            PERCENT_RANK() OVER(ORDER BY last_purchase_date)
 	        ) / 3 * 100 AS loyalty_score
 	FROM   get_customer_metrics
 ),
 get_revenue_contribution AS (
 	SELECT   customerid, 
-		     SUM(transactionamount) / SUM(SUM(transactionamount)) OVER() as revenue_contribution_percentage  
+                 SUM(transactionamount) / SUM(SUM(transactionamount)) OVER() as revenue_contribution_percentage  
 	FROM     transactions
 	GROUP BY 1
 )
@@ -147,9 +147,9 @@ SELECT   c.customerid,
          ROUND(loyalty_score::numeric, 2) AS loyalty_score,
          ROUND(revenue_contribution_percentage::numeric * 100, 2) AS revenue_contribution_percentage
 FROM     customers c JOIN get_categories_count gcc USING(customerid)
-					 JOIN get_top_products gtp USING(customerid)   
-					 JOIN get_loyalty_score gls USING(customerid)
-					 JOIN get_revenue_contribution grc USING(customerid)
+                     JOIN get_top_products gtp USING(customerid)   
+                     JOIN get_loyalty_score gls USING(customerid)
+                     JOIN get_revenue_contribution grc USING(customerid)
 ORDER BY 5 DESC
 LIMIT    5
 ```
