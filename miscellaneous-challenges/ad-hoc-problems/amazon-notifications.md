@@ -27,5 +27,4 @@ ORDER BY 1
 ```
 
 
-
 #### Question Link: [Namaste SQL - Q76/Hard](https://www.namastesql.com/coding-problem/76-amazon-notifications)
