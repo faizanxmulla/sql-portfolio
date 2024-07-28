@@ -77,7 +77,8 @@ Below is a summary of the projects included in this repository:
 |  [🎧 Spotify Data 2023 Analysis](./projects/spotify-data-2023-analysis/) | Music data analysis, platform comparison, temporal trends | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and cross-platform presence. 🎵 | 
 |  [🏪 Walmart Sales Analysis](./projects/walmart-sales-analysis/) | Sales trends, customer behavior, product performance | Investigate Walmart sales data, analyze key branches, products, and customer behavior for sales strategy enhancement. 🛒|  
 |  [🍽️ Restaurant Ratings Analysis](./projects/restaurant-ratings-analysis/) | Restaurant performance, customer preferences, sentiment analysis | Analyze restaurant ratings data to understand factors influencing ratings, with insights for performance enhancement. 🍽️|  
-
+|  [🚗 Vehicle Accident Analysis](./projects/vehicle-accident-analysis/) | Traffic safety, accident trends, spatial analysis | Analyze vehicle accident data to identify trends, high-risk areas, and factors contributing to accidents. 🚦 | 
+|  [🎵 Music Store Analysis](./projects/music-store-analysis/) | Sales performance, customer preferences, artist popularity | Delve into music store data to extract valuable insights regarding sales, customer preferences, and artist popularity. 📀 |
 
 
 ## 👩🏻‍💻 Usage Instructions
