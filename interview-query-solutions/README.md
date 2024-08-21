@@ -55,7 +55,7 @@ In the below tables, the columns indicate the following attributes related to th
 | 13 | [John's New Best Friend](https://www.interviewquery.com/questions/johns-new-best-friend) | [Solution](Hard/13-johns-new-best-friend.sql) |
 | 14 | [Career Jumping](https://www.interviewquery.com/questions/career-jumping) | [Solution](Hard/14-career-jumping.sql) |
 | 15 | [Flight Records](https://www.interviewquery.com/questions/flight-records) | [Solution](Hard/15-flight-records.sql) |
-| 16 | [Liker's Likers](https://www.interviewquery.com/questions/likers-likers) | [Solution](Hard/16-likers-likers.sql) |
+| 16 | [Liker's Likers](https://www.interviewquery.com/questions/liker-s-likers) | [Solution](Hard/16-likers-likers.sql) |
 | 17 | [CTR by Age](https://www.interviewquery.com/questions/ctr-by-age) | [Solution](Hard/17-ctr-by-age.sql) |
 | 18 | [Best Performing Advertisers](https://www.interviewquery.com/questions/best-performing-advertisers) | [Solution](Hard/18-best-performing-advertisers.sql) |
 | 19 | [Annual Retention](https://www.interviewquery.com/questions/annual-retention) | [Solution](Hard/19-annual-retention.sql) |
