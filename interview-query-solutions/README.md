@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://www.interviewquery.com/dashboard/profile">
-        <img width=75% height="35%" src="image.png" > 
+        <img width=75% height="35%" src="https://github.com/user-attachments/assets/ae1fb327-7ae1-40c3-a975-b43063035cbf" > 
     </a>
     <br>
     <br>
