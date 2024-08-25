@@ -1,7 +1,7 @@
 <p align="center">  
 	<br>
 	<a href="https://datalemur.com/profile">
-        <img height=100 width=60%  src="https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75"> 
+        <img height=100 width=60%  src="https://datalemur.com/Logo.svg"> 
     </a>
     <br>
     <br>
