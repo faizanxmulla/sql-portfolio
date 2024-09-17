@@ -28,7 +28,9 @@ INSERT INTO hospital VALUES
 
 ### Expected Output
 
-
+people_inside | 
+--| 
+3 |
 
 
 ### Solution
