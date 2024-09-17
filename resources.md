@@ -45,7 +45,7 @@ The best part is that they're all: **F-R-E-E !!**
     - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
 
-### 📚 **SQL books for Data Analysts** | [Drive Link for PDF's](https://drive.google.com/drive/folders/1aR0dKACtdM4YPJAI9jGPvYJGebN-DACW?usp=drive_link)
+### 📚 **SQL books for Data Analysts** | [Drive Link for PDF's](https://drive.google.com/drive/folders/1aR0dKACtdM4YPJAI9jGPvYJGebN-DACW?usp=sharing)
 
 - [Ace the Data Science Interview - Nick Singh](https://www.amazon.in/Ace-Data-Science-Interview-Questions/dp/0578973839/ref=sr_1_3?crid=21FGFO6GSFUR3&dib=eyJ2IjoiMSJ9.39sOAPE8-XVBh34Yl0aoJy_R6Vq6sjL0XU-sLSpYI5OVcpeM9Y8Uh146s9FmgJw3MGdi8OvpNGj1KbLo6zjY8vGF2Kww35S4I_BS77jEoxK3jNDfcFueMAk-IB_adDTTwRIqf4dpjhqFDhjEqDfJ_2I9qPQURkNz_y-oXTPWNb1LTrNlWTyccWBSMAqpDa81eCd6tlzFFXvyMPNwrCJD7mEf0NT0jqNTFwNG8u1vIYo.tBSx5eH-PE5L8y_h5hCaGUdbFARVzLZE0jxogoV50qY&dib_tag=se&keywords=ace+the+data+science+interview&qid=1718535970&sprefix=ace+the+%2Caps%2C213&sr=8-3)
 
