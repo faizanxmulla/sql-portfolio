@@ -4,6 +4,7 @@ Write a query to obtain a list of departments with an average salary lower than 
 
 However, when calculating the comapny's average salary, you must exclude the salaries of the department you are comparing it with. Essentially, the company's average salary will be dynamic for each department.
 
+
 ### Schema Setup
 
 ```sql
@@ -31,7 +32,9 @@ INSERT INTO employees VALUES
 
 ### Expected Output
 
-
+department_id |	avg_salary |
+--|--|
+300 |	6500.00 |
 
 
 
@@ -54,7 +57,7 @@ WHERE  da.dept_avg_salary < ca.company_avg_salary
 
 -- more easy and elegant solution: 
 
-SELECT   department_id, AVG(salary)
+SELECT   department_id, ROUND(AVG(salary), 2) AS avg_salary
 FROM     employees e1
 GROUP BY 1
 HAVING   AVG(salary) < (
