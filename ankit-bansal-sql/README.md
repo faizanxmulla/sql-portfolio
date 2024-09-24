@@ -1,12 +1,16 @@
 ## Ankit Bansal SQL
 
-This folder contains solutions for **Complex SQL Questions** and **Medium Complex SQL Questions** from the *Ankit Bansal* YouTube playlist.
+This folder contains solutions for **Complex SQL Questions** and **Medium Complex SQL Questions** from the *Ankit Bansal's* YouTube playlist.
 
 Below is an index of the problems covered, with links to the corresponding video tutorials for easy reference.
 
+**NOTE:** For some problems, the file name begins with the company name from whose interview the corresponding question was asked. This is not the case for all questions.
+
+**Last updated on**: *September 22, 2024*
+
 ---
 ---
-### Complex SQL Questions
+### Complex SQL Questions - [Playlist Link](https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
 
 | Sr. No. | Problem / Video Title                                                                          | YouTube Video                                                   |
 |---------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -82,7 +86,45 @@ Below is an index of the problems covered, with links to the corresponding video
 | 73      | [Amazon - Prime Subscription](./complex-sql-questions-playlist/73-amazon-prime-subscription.md)                                 | [Watch Video](https://www.youtube.com/watch?v=hZEc6m_HPTs)      |
 | 74      | [Zepto - Integer Repetition](./complex-sql-questions-playlist/74-zepto-integer-repetition.md)                                   | [Watch Video](https://www.youtube.com/watch?v=xS6iq3d8Eb4&t=7s) |
 | 75      | [Probo - Poll Investment Redistribution](./complex-sql-questions-playlist/75-probo-poll-investment-redistribution.md)                                   | [Watch Video](https://www.youtube.com/watch?v=xS6iq3d8Eb4&t=7s) |
+| 76      | [Postgres Regex Expressions](./complex-sql-questions-playlist/76-postgres-regex-expressions.md)                                   | [Watch Video](https://www.youtube.com/watch?v=gx2giIxFplY) |
 
 
-### Medium Complex SQL Questions
+---
 
+### Medium Complex SQL Questions - [Playlist Link](https://www.youtube.com/playlist?list=PLBTZqjSKn0IfuIqbMIqzS-waofsPHMS0E)
+
+
+| Sr. No. | Problem / Video Title                                                                          | YouTube Video                                                   |
+|---------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 1       | [Olympics Gold Medals](./medium-complex-sql-questions-playlist/01-olympics-gold-medals.md)           | [Watch Video](https://www.youtube.com/watch?v=dOLBRfwzYcU)      |
+| 2       | [Find Business Days](./medium-complex-sql-questions-playlist/02-find-business-days.md)               | [Watch Video](https://www.youtube.com/watch?v=FZ0GCcnIIWA)      |
+| 3       | [Amazon - People Inside Hospital](./medium-complex-sql-questions-playlist/03-amazon-people-inside-hospital.md) | [Watch Video](https://www.youtube.com/watch?v=oGYinDMDfnA)      |
+| 4       | [Airbnb - Convert CSV to Rows](./medium-complex-sql-questions-playlist/04-airbnb-convert-csv-to-rows.md) | [Watch Video](https://www.youtube.com/watch?v=PE5MZW1CxOI)      |
+| 5       | [EPAM Systems - Employee Salaries](./medium-complex-sql-questions-playlist/05-epam-systems-employee-salaries.md) | [Watch Video](https://www.youtube.com/watch?v=TvqKpz9RO-A)      |
+| 6       | [LinkedIn - Power Creators](./medium-complex-sql-questions-playlist/06-linkedin-power-creators.md)    | [Watch Video](https://www.youtube.com/watch?v=TLE-xW9rZfQ)      |
+| 7       | [Adobe - Photoshop Revenue Analysis](./medium-complex-sql-questions-playlist/07-photoshop-revenue-analysis.md) | [Watch Video](https://www.youtube.com/watch?v=TgKmfAV2pw8)      |
+| 8       | [Amazon - Join Based Problem](./medium-complex-sql-questions-playlist/08-amazon-join-based-problem.md) | [Watch Video](https://www.youtube.com/watch?v=D1MW6Z3PNbA)      |
+| 9       | [Stitch Fix - Repeat Purchases on Multiple Days](./medium-complex-sql-questions-playlist/09-repeat-purchases-on-multiple-days.md) | [Watch Video](https://www.youtube.com/watch?v=TGxgo3tu400)      |
+| 10      | [Spotify - Top 5 Artists](./medium-complex-sql-questions-playlist/10-spotify-top-5-artists.md)        | [Watch Video](https://www.youtube.com/watch?v=DwYAz9hYjrw)      |
+| 11      | [L&T - Highest & Lowest Salary](./medium-complex-sql-questions-playlist/11-l&t-highest-lowest-salary.md) | [Watch Video](https://www.youtube.com/watch?v=7W7B0y5WsaQ)      |
+| 12      | [Call Start & End Time](./medium-complex-sql-questions-playlist/12-call-start-end-time.md)          | [Watch Video](https://www.youtube.com/watch?v=lxFQ0RgyEcA)      |
+| 13      | [Infosys - SQL Puzzle](./medium-complex-sql-questions-playlist/13-infosys-sql-puzzle.md)              | [Watch Video](https://www.youtube.com/watch?v=3sd5siyCAOo)      |
+| 14      | [Ameriprise - Team Members Criteria](./medium-complex-sql-questions-playlist/14-ameriprise-team-members-criteria.md) | [Watch Video](https://www.youtube.com/watch?v=KWOZ9VoVFac)      |
+| 15      | [Tiger Analytics - Adult & Child Pairing](./medium-complex-sql-questions-playlist/15-tiger-analytics-adult-child-pairing.md) | [Watch Video](https://www.youtube.com/watch?v=02XLUeIVRSE)      |
+| 16      | [PwC - Increase in Revenue](./medium-complex-sql-questions-playlist/16-pwc-increase-in-revenue.md)    | [Watch Video](https://www.youtube.com/watch?v=8nfzv1XI1Ic)      |
+| 17      | [Spring CT - Parent-Child Names](./medium-complex-sql-questions-playlist/17-spring-ct-parent-child-names.md) | [Watch Video](https://www.youtube.com/watch?v=EsGPj8Ojk2o)      |
+| 18      | [ICC World Cup Points Table](./medium-complex-sql-questions-playlist/18-icc-world-cup-points-table.md) | [Watch Video](https://www.youtube.com/watch?v=t7mkWPga8lI)      |
+| 19      | [Tiger Analytics - 2 Problems](./medium-complex-sql-questions-playlist/19-tiger-analytics-2-problems.md) | [Watch Video](https://www.youtube.com/watch?v=eMQDHHfUJtU)      |
+| 20      | [PwC - Source-Target Comparison](./medium-complex-sql-questions-playlist/20-pwc-source-target-comparision.md) | [Watch Video](https://www.youtube.com/watch?v=J9wwR4huimI)      |
+| 21      | [Google - Repeating Words](./medium-complex-sql-questions-playlist/21-google-repeating-words.md)      | [Watch Video](https://www.youtube.com/watch?v=rTLWoTYqC-U)      |
+| 22      | [Honeywell - Print Movie Stars](./medium-complex-sql-questions-playlist/22-honeywell-print-movie-stars.md) | [Watch Video](https://www.youtube.com/watch?v=CYjyjQGjX7A)      |
+| 23      | [IBM - HackerRank Discounted Tours](./medium-complex-sql-questions-playlist/23-ibm-hackerrank-discounted-tours.md) | [Watch Video](https://www.youtube.com/watch?v=ORA3hvcPgTo)      |
+| 24      | [Angel One - Busiest Route](./medium-complex-sql-questions-playlist/24-angel-one-busiest-route.md)   | [Watch Video](https://www.youtube.com/watch?v=rGG6FAYHDNc)      |
+| 25      | [Accenture - Case Sensitivity](./medium-complex-sql-questions-playlist/25-accenture-case-sensitivity.md) | [Watch Video](https://www.youtube.com/watch?v=WmY_0shtpdg)      |
+| 26      | [EXL Analytics - Max-Min Population](./medium-complex-sql-questions-playlist/26-exl-analytics-max-min-population.md) | [Watch Video](https://www.youtube.com/watch?v=WM2jN1gOs_8)      |
+| 27      | [MCQ SQL Assessment](./medium-complex-sql-questions-playlist/27-mcq-sql-assessment.md)              | [Watch Video](https://www.youtube.com/watch?v=lyW5U9RNvgc)      |
+| 28      | [Exchange Seats](./medium-complex-sql-questions-playlist/28-exchange-seats.md)                      | [Watch Video](https://www.youtube.com/watch?v=Sq1kM3jVU68)      |
+
+
+
+---
