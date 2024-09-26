@@ -9,7 +9,17 @@ Below is an index of the problems covered, with links to the corresponding video
 **Last updated on**: *September 22, 2024*
 
 ---
+
+### Quick Navigation
+
+- [Complex SQL Questions Index](#complex-sql-questions---playlist-link)
+
+- [Medium Complex SQL Questions Index](#medium-complex-sql-questions---playlist-link)
+
+
 ---
+---
+
 ### Complex SQL Questions - [Playlist Link](https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb)
 
 | Sr. No. | Problem / Video Title                                                                          | YouTube Video                                                   |
