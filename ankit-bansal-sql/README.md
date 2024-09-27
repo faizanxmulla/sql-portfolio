@@ -6,7 +6,7 @@ Below is an index of the problems covered, with links to the corresponding video
 
 **NOTE:** For some problems, the file name begins with the company name from whose interview the corresponding question was asked. This is not the case for all questions.
 
-**Last updated on**: *September 22, 2024*
+**Last updated on**: *September 27, 2024*
 
 ---
 
