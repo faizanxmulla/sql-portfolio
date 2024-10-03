@@ -26,7 +26,7 @@ In the below tables, the columns indicate the following attributes related to th
 
 ## List of Questions
 
-### Difficulty : **Hard 🔴** _(106/117)_
+### Difficulty : **Hard 🔴** _(119/119)_
 
 
 | Sr. | ID    | Title                                                                                                                                                                                                                 | Solution Link                                                                  |
@@ -136,7 +136,20 @@ In the below tables, the columns indicate the following attributes related to th
 | 103 | 10314 | [Revenue Over Time](https://platform.stratascratch.com/coding/10314-revenue-over-time?code_type=1)                                                                                                                    | [Solution](Hard/10314-revenue-over-time.sql)                                |
 | 104 | 10319 | [Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1)                                                                                            | [Solution](Hard/10319-monthly-percentage-difference.sql)                    |
 | 105 | 10350 | [Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1)                                                                                                            | [Solution](Hard/10350-algorithm-performance.sql)                            |
-| 106 | 9918 | [Arizona, California, and Hawaii Employees](https://platform.stratascratch.com/coding/9918-arizona-california-and-hawaii-employees?code_type=1)                                                                                                            | [Solution](Hard/9918-arizona-california-hawaii.sql)                            |
+| 106 | 2038 | [WFM Brand Segmentation based on Customer Activity](https://platform.stratascratch.com/coding/2038-wfm-brand-segmentation-based-on-customer-activity?code_type=1)                                                                                                            | [Solution](Hard/2038-wfm-market-segmentation.sql)
+| 107 | 2134 | [Completed Trip within 168 Hours](https://platform.stratascratch.com/coding/2134-completed-trip-within-168-hours?code_type=1) | [Solution](Hard/2134-completed-trip-within-168-hours.sql)
+| 108 | 2147 | [Most Expensive And Cheapest Wine With Ties](https://platform.stratascratch.com/coding/2147-most-expensive-and-cheapest-wine-with-ties?code_type=1) | [Solution](Hard/2147-most-expensive-and-cheapest-wines.sql)
+| 109 | 2165 | [Sales Percentage Week's Beginning and End](https://platform.stratascratch.com/coding/2165-sales-percentage-weeks-beginning-and-end?code_type=1) | [Solution](Hard/2165-sales-percentage-weeks-beginning-and-end.sql)
+| 110 | 9637 | [Growth of Airbnb](https://platform.stratascratch.com/coding/9637-growth-of-airbnb?code_type=1) | [Solution](Hard/9637-growth-of-airbnb.sql)
+| 111 | 9713 | [Find the scores of 4 quartiles of each company](https://platform.stratascratch.com/coding/9713-find-the-scores-of-4-quartiles-of-each-company?code_type=1) | [Solution](Hard/9713-find-score-of-4-quartiles.sql)
+| 112  | 9714 | [Dates Of Inspection](https://platform.stratascratch.com/coding/9714-dates-of-inspection?code_type=1) | [Solution](Hard/9714-dates-of-inspection.sql)
+| 113 | 9918 | [Arizona, California, and Hawaii Employees](https://platform.stratascratch.com/coding/9918-arizona-california-and-hawaii-employees?code_type=1) | [Solution](Hard/9918-arizona-california-hawaii.sql)   
+| 114 | 9959 | [Olympic Medals By Chinese Athletes](https://platform.stratascratch.com/coding/9959-olympic-medals-by-chinese-athletes?code_type=1) | [Solution](Hard/9959-olympic-medals-by-chinese-athletes.sql)
+| 115 | 9977 | [Find the number of public-service employees](https://platform.stratascratch.com/coding/9977-find-the-number-of-police-officers-firefighters-and-medical-staff-employees?code_type=1) | [Solution](Hard/9977-find-number-of-public-service-employees.sql) |
+| 116 | 10145 | [Make a pivot table to find the highest payment](https://platform.stratascratch.com/coding/10145-make-a-pivot-table-to-find-the-highest-payment-in-each-year-for-each-employee?code_type=1) | [Solution](Hard/10145-pivot-table-for-highest-payment.sql) |
+| 117 | 10355 | [Employees with Same Birth Month](https://platform.stratascratch.com/coding/10355-employees-with-same-birth-month?code_type=1) | [Solution](Hard/10355-employees-with-same-birth-month.sql)   |
+| 118 | 10358 | [Friday Purchases](https://platform.stratascratch.com/coding/10358-friday-purchases?code_type=1) | [Solution](Hard/10358-friday-purchases.sql) |
+| 119 | 10369 | [Spotify Penetration Testing](https://platform.stratascratch.com/coding/10369-spotify-penetration-analysis?code_type=1) | [Solution](Hard/10369-spotify-penetration-testing.sql) |
 
 
 
