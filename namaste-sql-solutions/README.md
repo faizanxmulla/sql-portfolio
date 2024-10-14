@@ -26,14 +26,14 @@ In the below tables, the columns indicate the following attributes related to th
 
 ### Table Of Contents
 
-- [Medium](#difficulty--medium-🟡-55)
+- [Medium](#difficulty--medium-🟡-553)
 
-- [Hard](#difficulty--hard-🔴-22)
-
-
+- [Hard](#difficulty--hard-🔴-343)
 
 
-#### Difficulty : **Medium 🟡** _(5/5)_
+
+
+#### Difficulty : **Medium 🟡** _(5/53)_
 
 | ID | Challenge | Solution |
 |:------:|------------|:----------:|
@@ -44,14 +44,14 @@ In the below tables, the columns indicate the following attributes related to th
 | 05 | [64 - Penultimate Order](https://www.namastesql.com/coding-problem/64-penultimate-order) | [Solution](Medium/64-penultimate-order.md) |
 
 
-#### Difficulty : **Hard 🔴** _(2/2)_
+#### Difficulty : **Hard 🔴** _(3/43)_
 
 
 | ID | Challenge | Solution |
 |:------:|------------|:----------:|
 | 01 | [15 - Lift Overloaded - Part 1](https://www.namastesql.com/coding-problem/15-lift-overloaded-part-1) | [Solution](Hard/15-lift-overloaded-1.md) |
 | 02 | [76 - Amazon Notifications](https://www.namastesql.com/coding-problem/76-amazon-notifications) | [Solution](Hard/76-amazon-notifications.md) |
-
+| 03 | [118 - User Session Actibity](https://www.namastesql.com/coding-problem/118-user-session-activity) | [Solution](Hard/118-user-session-activity.md) |
 
 
 
