@@ -84,6 +84,8 @@ The best part is that they're all: **F-R-E-E !!**
 
 - [Optimizing SQL queries - Article](https://www.thoughtspot.com/data-trends/data-modeling/optimizing-sql-queries)
 
+- [SQL short reads by Chris Perry](https://sqlshortreads.com/)
+
 
 ### 📚 **Online Resources and Cheat Sheets**
    - [8 week SQL challenge - Resources](https://8weeksqlchallenge.com/resources/)
