@@ -50,5 +50,5 @@ records_cte as (
 )
 SELECT id, visit_date, no_of_people
 FROM   records_cte
-WHERE  records_in_Each_bin >= 3
+WHERE  records_in_each_bin >= 3
 ```
