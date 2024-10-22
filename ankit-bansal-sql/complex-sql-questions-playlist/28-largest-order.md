@@ -35,5 +35,13 @@ INSERT INTO int_orders VALUES
 ### Solution Query
 
 ```sql
-
+SELECT   a.order_number, 
+         a.order_date, 
+         a.cust_id, 
+         a.salesperson_id,
+         a.amount
+FROM     int_orders a LEFT JOIN int_orders b ON a.salesperson_id=b.salesperson_id
+GROUP BY 1, 2, 3, 4, 5
+HAVING   a.amount >= MAX(b.amount)
+ORDER BY 1
 ```

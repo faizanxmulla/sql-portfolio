@@ -34,6 +34,8 @@ sms_date |	person1 |	person2 |	total_messages_exchanged |
 ### Solution Query
 
 ```sql
+-- Solution 1: using CASE WHEN
+
 WITH CTE AS (
     SELECT sms_date,
            sms_no, 
@@ -42,6 +44,20 @@ WITH CTE AS (
     FROM   subscriber
 )
 SELECT   sms_date, person1, person2, SUM(sms_no) AS total_messages_exchanged
+FROM     CTE
+GROUP BY 1, 2, 3
+
+
+-- Solution 2: using LEAST & GREATEST
+
+WITH CTE AS (
+    SELECT sms_date,
+           sms_no, 
+           LEAST(sender, receiver) as person1,
+           GREATEST(sender, receiver) as person2
+    FROM   subscriber
+)
+SELECT   sms_date, person1, person2, SUM(sms_no) as total_messages_exchanged
 FROM     CTE
 GROUP BY 1, 2, 3
 ```
