@@ -62,7 +62,7 @@ The platforms include:
 
 7. [Interview Query](./interview-query-solutions/)
 
-8. [NamasteSQL by Ankit Bansal](./ankit-bansal-sql/namaste-sql-solutions/)
+8. [NamasteSQL by Ankit Bansal](./namaste-sql-solutions/)
 
 ## 📚 Projects
 
