@@ -6,7 +6,7 @@ Below is an index of the problems covered, with links to the corresponding video
 
 **NOTE:** For some problems, the file name begins with the company name from whose interview the corresponding question was asked. This is not the case for all questions.
 
-**Last updated on**: *October 9, 2024*
+**Last updated on**: *November 13, 2024*
 
 ---
 
@@ -98,6 +98,7 @@ Below is an index of the problems covered, with links to the corresponding video
 | 75      | [Probo - Poll Investment Redistribution](./complex-sql-questions-playlist/75-probo-poll-investment-redistribution.md)                                   | [Watch Video](https://www.youtube.com/watch?v=xS6iq3d8Eb4&t=7s) |
 | 76      | [Postgres Regex Expressions](./complex-sql-questions-playlist/76-postgres-regex-expressions.md)                                   | [Watch Video](https://www.youtube.com/watch?v=gx2giIxFplY) |
 | 77      | [Seekho - User Session Activity](./complex-sql-questions-playlist/77-seekho-user-session-activity.md)                                   | [Watch Video](https://www.youtube.com/watch?v=B7sTTafjXcg) |
+| 78      | [IPL Data Analysis](./complex-sql-questions-playlist/78-ipl-data-analysis.md)                                   | [Watch Video](https://www.youtube.com/watch?v=lGjfOkPcePk) |
 
 ---
 
