@@ -1,3 +1,24 @@
+-- working solution: 
+
+WITH CTE AS (
+    SELECT user_id, 
+           date, 
+           AVG(steps) OVER(PARTITION BY user_id ORDER BY date 
+                           ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) AS avg_steps,
+           LAG(date) OVER(PARTITION BY user_id ORDER BY date) AS prev_date,
+           LAG(date, 2) OVER(PARTITION BY user_id ORDER BY date) AS prev2_date
+    FROM   daily_steps
+)
+SELECT user_id, date, ROUND(avg_steps) AS avg_steps
+FROM   CTE
+WHERE  date - prev_date = 1 
+       and date - prev2_date = 2;
+
+
+
+
+-- not working solutions
+
 -- Solution 1: using ROWS BETWEEN clause and ROW_NUMBER() to filter
 
 WITH CTE as (
@@ -15,7 +36,6 @@ WHERE  rn > 2
 
 
 -- Solution 2: using LAG()
-
 
 WITH CTE as (
     SELECT user_id,
