@@ -6,7 +6,7 @@ Below is an index of the problems covered, with links to the corresponding video
 
 **NOTE:** For some problems, the file name begins with the company name from whose interview the corresponding question was asked. This is not the case for all questions.
 
-**Last updated on**: *November 13, 2024*
+**Last updated on**: *December 13, 2024*
 
 ---
 
@@ -99,6 +99,8 @@ Below is an index of the problems covered, with links to the corresponding video
 | 76      | [Postgres Regex Expressions](./complex-sql-questions-playlist/76-postgres-regex-expressions.md)                                   | [Watch Video](https://www.youtube.com/watch?v=gx2giIxFplY) |
 | 77      | [Seekho - User Session Activity](./complex-sql-questions-playlist/77-seekho-user-session-activity.md)                                   | [Watch Video](https://www.youtube.com/watch?v=B7sTTafjXcg) |
 | 78      | [IPL Data Analysis](./complex-sql-questions-playlist/78-ipl-data-analysis.md)                                   | [Watch Video](https://www.youtube.com/watch?v=lGjfOkPcePk) |
+| 79      | [Epam - Candidates Experience](./complex-sql-questions-playlist/79-epam-candidates-experience.md)                                   | [Watch Video](https://www.youtube.com/watch?v=rsnA8mMbRPQ) |
+
 
 ---
 
