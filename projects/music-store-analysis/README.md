@@ -28,7 +28,10 @@ Our examination will encompass scrutinizing various aspects such as `top-selling
 
 These insights can guide decisions on **content acquisition**, **marketing strategies**, and **customer engagement initiatives**.
 
-## Datasets
+## Data Structure
+
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/052593a6-14f9-4279-9301-dcfe4621270f" />
+
 
 This dataset contains tables, in CSV format:
 
