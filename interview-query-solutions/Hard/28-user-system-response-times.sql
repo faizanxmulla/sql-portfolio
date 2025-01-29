@@ -20,5 +20,5 @@ GROUP BY 1
 -- 3. also can use LEAD() and then filter by message_type='system'
 
 
--- link: 
+-- link:  
 -- this question is discussed in detail in the following YT video: https://www.youtube.com/watch?v=_iaFt8NqfN4
