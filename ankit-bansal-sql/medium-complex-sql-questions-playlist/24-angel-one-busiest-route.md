@@ -37,9 +37,9 @@ INSERT INTO tickets (airline_number, origin, destination, oneway_round, ticket_c
 
 ### Expected Output
 
-airline_number |	busiet_route |
+busiest_route |	total_ticket_count |
 --|--|
-MNO345 |	DEL → NYC |
+DEL → NYC |	350 |
 
 
 ### Solution
