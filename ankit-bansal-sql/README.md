@@ -6,7 +6,7 @@ Below is an index of the problems covered, with links to the corresponding video
 
 **NOTE:** For some problems, the file name begins with the company name from whose interview the corresponding question was asked. This is not the case for all questions.
 
-**Last updated on**: *December 13, 2024*
+**Last updated on**: *March 24, 2025*
 
 ---
 
@@ -100,7 +100,7 @@ Below is an index of the problems covered, with links to the corresponding video
 | 77      | [Seekho - User Session Activity](./complex-sql-questions-playlist/77-seekho-user-session-activity.md)                                   | [Watch Video](https://www.youtube.com/watch?v=B7sTTafjXcg) |
 | 78      | [IPL Data Analysis](./complex-sql-questions-playlist/78-ipl-data-analysis.md)                                   | [Watch Video](https://www.youtube.com/watch?v=lGjfOkPcePk) |
 | 79      | [Epam - Candidates Experience](./complex-sql-questions-playlist/79-epam-candidates-experience.md)                                   | [Watch Video](https://www.youtube.com/watch?v=rsnA8mMbRPQ) |
-
+| 80      | [Google - Top 5 Sellers-Buyers Combinations](./complex-sql-questions-playlist/80-google-top-5-seller-buyer-combinations.md)                                   | [Watch Video](https://www.youtube.com/watch?v=2wN3D0jsj9k) |
 
 ---
 
@@ -137,7 +137,7 @@ Below is an index of the problems covered, with links to the corresponding video
 | 26      | [EXL Analytics - Max-Min Population](./medium-complex-sql-questions-playlist/26-exl-analytics-max-min-population.md) | [Watch Video](https://www.youtube.com/watch?v=WM2jN1gOs_8)      |
 | 27      | [MCQ SQL Assessment](./medium-complex-sql-questions-playlist/27-mcq-sql-assessment.md)              | [Watch Video](https://www.youtube.com/watch?v=lyW5U9RNvgc)      |
 | 28      | [Exchange Seats](./medium-complex-sql-questions-playlist/28-exchange-seats.md)                      | [Watch Video](https://www.youtube.com/watch?v=Sq1kM3jVU68)      |
-
+| 29      | [Swiggy Hackerrank Assessment](./medium-complex-sql-questions-playlist/29-swiggy-hackerrank-assessment.md)                      | [Watch Video](https://www.youtube.com/watch?v=u8AKf4qvqhU)      |
 
 
 ---
