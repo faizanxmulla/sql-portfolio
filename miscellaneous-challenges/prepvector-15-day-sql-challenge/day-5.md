@@ -45,9 +45,9 @@ INSERT INTO events VALUES
 
 date |	total_enters |	total_submits |	success_rate |
 --|--|--|--|
-2020-01-01 |	3 |	3 |	1 |
+2020-01-01 |	3 |	2 |	66.6667 |
 2020-01-02 |	2 |	0 |	0 |
-2020-01-15 |	1 |	1 |	1 |
+2020-01-15 |	1 |	1 |	100 |
 
 
 ### Solution Query 
@@ -65,4 +65,28 @@ GROUP BY date
 
 
 -- NOTE: However, this solution is currently getting 8/10 points instead of a full score. There might be an edge case I’m missing
+
+
+-- updated solution:
+
+-- current query counts post_enter and post_submit separately based on the created_at date, but it doesn’t ensure that a post_submit corresponds to an actual post_enter on the same day.
+
+
+WITH enters as (
+    SELECT user_id, DATE(created_at) as enter_date
+    FROM   events
+    WHERE  action = 'post_enter'
+)
+,submits as (
+    SELECT user_id, DATE(created_at) as submit_date
+    FROM   events
+    WHERE  action = 'post_submit'
+)
+SELECT   e.enter_date as date,
+         COUNT(e.user_id) as total_enters,
+         COUNT(s.user_id) as total_submits,
+         IFNULL(100.0 * COUNT(s.user_id) / NULLIF(COUNT(e.user_id), 0), 0) as success_rate
+FROM     enters e LEFT JOIN submits s ON e.user_id = s.user_id and e.enter_date = s.submit_date
+WHERE    date BETWEEN '2020-01-01' and '2020-01-31'
+GROUP BY e.enter_date
 ```
